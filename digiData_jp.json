@@ -1,0 +1,8278 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Kuramon",
+    "moves": [
+      
+    ],
+    "neighBours": {
+      "prev": [
+        "1"
+      ],
+      "next": [
+        "9",
+        "12",
+        "250"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=1",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot629.png"
+  },
+  "2": {
+    "id": 2,
+    "name": "Pabumon",
+    "moves": [
+      
+    ],
+    "neighBours": {
+      "prev": [
+        "2"
+      ],
+      "next": [
+        "7",
+        "13",
+        "15"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=2",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot387.png"
+  },
+  "3": {
+    "id": 3,
+    "name": "Punimon",
+    "moves": [
+      
+    ],
+    "neighBours": {
+      "prev": [
+        "3"
+      ],
+      "next": [
+        "8",
+        "11"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=3",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot437.png"
+  },
+  "4": {
+    "id": 4,
+    "name": "Botamon",
+    "moves": [
+      
+    ],
+    "neighBours": {
+      "prev": [
+        "4"
+      ],
+      "next": [
+        "6",
+        "16"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=4",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot317.png"
+  },
+  "5": {
+    "id": 5,
+    "name": "Poyomon",
+    "moves": [
+      
+    ],
+    "neighBours": {
+      "prev": [
+        "5"
+      ],
+      "next": [
+        "10",
+        "14"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=5",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot320.png"
+  },
+  "6": {
+    "id": 6,
+    "name": "Koromon",
+    "moves": [
+      "1"
+    ],
+    "neighBours": {
+      "prev": [
+        "6",
+        "4"
+      ],
+      "next": [
+        "17",
+        "27",
+        "37",
+        "41",
+        "255",
+        "326"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=6",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot322.png"
+  },
+  "7": {
+    "id": 7,
+    "name": "Tanemon",
+    "moves": [
+      "24"
+    ],
+    "neighBours": {
+      "prev": [
+        "7",
+        "2"
+      ],
+      "next": [
+        "50",
+        "42",
+        "52",
+        "256"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=7",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot512.png"
+  },
+  "8": {
+    "id": 8,
+    "name": "Tsunomon",
+    "moves": [
+      "41"
+    ],
+    "neighBours": {
+      "prev": [
+        "8",
+        "3"
+      ],
+      "next": [
+        "25",
+        "26",
+        "31",
+        "46",
+        "252",
+        "258"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=8",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot438.png"
+  },
+  "9": {
+    "id": 9,
+    "name": "Tsumemon",
+    "moves": [
+      "71"
+    ],
+    "neighBours": {
+      "prev": [
+        "9",
+        "1"
+      ],
+      "next": [
+        "18",
+        "29",
+        "43",
+        "254"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=9",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot631.png"
+  },
+  "10": {
+    "id": 10,
+    "name": "Tokomon",
+    "moves": [
+      "81"
+    ],
+    "neighBours": {
+      "prev": [
+        "10",
+        "5"
+      ],
+      "next": [
+        "40",
+        "45",
+        "49",
+        "51",
+        "328"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=10",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot325.png"
+  },
+  "11": {
+    "id": 11,
+    "name": "Nyaromon",
+    "moves": [
+      "61"
+    ],
+    "neighBours": {
+      "prev": [
+        "11",
+        "3"
+      ],
+      "next": [
+        "19",
+        "35",
+        "47",
+        "259"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=11",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot515.png"
+  },
+  "12": {
+    "id": 12,
+    "name": "Pagumon",
+    "moves": [
+      "74"
+    ],
+    "neighBours": {
+      "prev": [
+        "12",
+        "1"
+      ],
+      "next": [
+        "20",
+        "24",
+        "53",
+        "253"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=12",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot567.png"
+  },
+  "13": {
+    "id": 13,
+    "name": "Yokomon",
+    "moves": [
+      "21"
+    ],
+    "neighBours": {
+      "prev": [
+        "13",
+        "2"
+      ],
+      "next": [
+        "21",
+        "44",
+        "54",
+        "257"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=13",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot510.png"
+  },
+  "14": {
+    "id": 14,
+    "name": "Bukamon",
+    "moves": [
+      "14"
+    ],
+    "neighBours": {
+      "prev": [
+        "14",
+        "5"
+      ],
+      "next": [
+        "22",
+        "32",
+        "33",
+        "48"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=14",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot514.png"
+  },
+  "15": {
+    "id": 15,
+    "name": "Motimon",
+    "moves": [
+      "84"
+    ],
+    "neighBours": {
+      "prev": [
+        "15",
+        "2"
+      ],
+      "next": [
+        "30",
+        "34",
+        "36",
+        "39"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=15",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot388.png"
+  },
+  "16": {
+    "id": 16,
+    "name": "Wanyamon",
+    "moves": [
+      "51"
+    ],
+    "neighBours": {
+      "prev": [
+        "16",
+        "4"
+      ],
+      "next": [
+        "23",
+        "28",
+        "38",
+        "337"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=16",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot321.png"
+  },
+  "17": {
+    "id": 17,
+    "name": "Agumon",
+    "moves": [
+      "81",
+      "110"
+    ],
+    "neighBours": {
+      "prev": [
+        "17",
+        "6"
+      ],
+      "next": [
+        "74",
+        "84",
+        "85",
+        "90",
+        "104",
+        "261"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=17",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot050.png"
+  },
+  "18": {
+    "id": 18,
+    "name": "Agumon (Blk)",
+    "moves": [
+      "1",
+      "112"
+    ],
+    "neighBours": {
+      "prev": [
+        "18",
+        "9"
+      ],
+      "next": [
+        "72",
+        "75",
+        "81",
+        "89",
+        "90",
+        "277"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=18",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot143.png"
+  },
+  "19": {
+    "id": 19,
+    "name": "Armadillomon",
+    "moves": [
+      "44",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "19",
+        "11"
+      ],
+      "next": [
+        "57",
+        "79",
+        "80",
+        "81",
+        "89",
+        "268"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=19",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot707.png"
+  },
+  "20": {
+    "id": 20,
+    "name": "Impmon",
+    "moves": [
+      "74",
+      "20"
+    ],
+    "neighBours": {
+      "prev": [
+        "20",
+        "12"
+      ],
+      "next": [
+        "55",
+        "59",
+        "63",
+        "88",
+        "98",
+        "101"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=20",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot081.png"
+  },
+  "21": {
+    "id": 21,
+    "name": "Elecmon",
+    "moves": [
+      "34",
+      "40"
+    ],
+    "neighBours": {
+      "prev": [
+        "21",
+        "13"
+      ],
+      "next": [
+        "69",
+        "70",
+        "79",
+        "85",
+        "95",
+        "106"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=21",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot564.png"
+  },
+  "22": {
+    "id": 22,
+    "name": "Otamamon",
+    "moves": [
+      "14",
+      "104"
+    ],
+    "neighBours": {
+      "prev": [
+        "22",
+        "14"
+      ],
+      "next": [
+        "67",
+        "78",
+        "83",
+        "96",
+        "270",
+        "280"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=22",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot582.png"
+  },
+  "23": {
+    "id": 23,
+    "name": "Gaomon",
+    "moves": [
+      "105",
+      "119"
+    ],
+    "neighBours": {
+      "prev": [
+        "23",
+        "16"
+      ],
+      "next": [
+        "63",
+        "65",
+        "68",
+        "93",
+        "106",
+        "269"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=23",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot055.png"
+  },
+  "24": {
+    "id": 24,
+    "name": "Gazimon",
+    "moves": [
+      "71",
+      "10"
+    ],
+    "neighBours": {
+      "prev": [
+        "24",
+        "12"
+      ],
+      "next": [
+        "65",
+        "70",
+        "73",
+        "94",
+        "95",
+        "106"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=24",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot569.png"
+  },
+  "25": {
+    "id": 25,
+    "name": "Gabumon",
+    "moves": [
+      "4",
+      "105"
+    ],
+    "neighBours": {
+      "prev": [
+        "25",
+        "8"
+      ],
+      "next": [
+        "69",
+        "94",
+        "96",
+        "99",
+        "105",
+        "263"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=25",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot151.png"
+  },
+  "26": {
+    "id": 26,
+    "name": "Gabumon (Blk)",
+    "moves": [
+      "44",
+      "102"
+    ],
+    "neighBours": {
+      "prev": [
+        "26",
+        "8"
+      ],
+      "next": [
+        "70",
+        "102",
+        "105",
+        "107",
+        "280"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=26",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot713.png"
+  },
+  "27": {
+    "id": 27,
+    "name": "Guilmon",
+    "moves": [
+      "1",
+      "110"
+    ],
+    "neighBours": {
+      "prev": [
+        "27",
+        "6"
+      ],
+      "next": [
+        "84",
+        "72",
+        "75",
+        "90",
+        "104",
+        "261"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=27",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot090.png"
+  },
+  "28": {
+    "id": 28,
+    "name": "Kudamon",
+    "moves": [
+      "61",
+      "64"
+    ],
+    "neighBours": {
+      "prev": [
+        "28",
+        "16"
+      ],
+      "next": [
+        "62",
+        "80",
+        "103",
+        "107",
+        "263"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=28",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot053.png"
+  },
+  "29": {
+    "id": 29,
+    "name": "Keramon",
+    "moves": [
+      "71",
+      "123"
+    ],
+    "neighBours": {
+      "prev": [
+        "29",
+        "9"
+      ],
+      "next": [
+        "59",
+        "73",
+        "98",
+        "100",
+        "262"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=29",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot626.png"
+  },
+  "30": {
+    "id": 30,
+    "name": "Gotsumon",
+    "moves": [
+      "112",
+      "41"
+    ],
+    "neighBours": {
+      "prev": [
+        "30",
+        "15"
+      ],
+      "next": [
+        "57",
+        "76",
+        "86",
+        "89",
+        "260",
+        "268"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=30",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot595.png"
+  },
+  "31": {
+    "id": 31,
+    "name": "Goblimon",
+    "moves": [
+      "41",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "31",
+        "8"
+      ],
+      "next": [
+        "63",
+        "65",
+        "72",
+        "75",
+        "95",
+        "267"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=31",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot111.png"
+  },
+  "32": {
+    "id": 32,
+    "name": "Gomamon",
+    "moves": [
+      "20",
+      "102"
+    ],
+    "neighBours": {
+      "prev": [
+        "32",
+        "14"
+      ],
+      "next": [
+        "57",
+        "58",
+        "88",
+        "105",
+        "260",
+        "271"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=32",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot343.png"
+  },
+  "33": {
+    "id": 33,
+    "name": "Syakomon",
+    "moves": [
+      "11",
+      "104"
+    ],
+    "neighBours": {
+      "prev": [
+        "33",
+        "14"
+      ],
+      "next": [
+        "58",
+        "67",
+        "78",
+        "83",
+        "270"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=33",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot709.png"
+  },
+  "34": {
+    "id": 34,
+    "name": "Solarmon",
+    "moves": [
+      "64",
+      "67"
+    ],
+    "neighBours": {
+      "prev": [
+        "34",
+        "15"
+      ],
+      "next": [
+        "76",
+        "79",
+        "86",
+        "104",
+        "265",
+        "268"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=34",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot728.png"
+  },
+  "35": {
+    "id": 35,
+    "name": "Terriermon",
+    "moves": [
+      "93",
+      "116"
+    ],
+    "neighBours": {
+      "prev": [
+        "35",
+        "11"
+      ],
+      "next": [
+        "68",
+        "58",
+        "91",
+        "240",
+        "278"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=35",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot701.png"
+  },
+  "36": {
+    "id": 36,
+    "name": "Tentomon",
+    "moves": [
+      "31",
+      "40"
+    ],
+    "neighBours": {
+      "prev": [
+        "36",
+        "15"
+      ],
+      "next": [
+        "66",
+        "77",
+        "82",
+        "87",
+        "108"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=36",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot303.png"
+  },
+  "37": {
+    "id": 37,
+    "name": "ToyAgumon",
+    "moves": [
+      "84",
+      "4"
+    ],
+    "neighBours": {
+      "prev": [
+        "37",
+        "6"
+      ],
+      "next": [
+        "76",
+        "64",
+        "74",
+        "85",
+        "86",
+        "265"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=37",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot708.png"
+  },
+  "38": {
+    "id": 38,
+    "name": "Dorumon",
+    "moves": [
+      "1",
+      "120"
+    ],
+    "neighBours": {
+      "prev": [
+        "38",
+        "16"
+      ],
+      "next": [
+        "64",
+        "81",
+        "94",
+        "108",
+        "279"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=38",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot112.png"
+  },
+  "39": {
+    "id": 39,
+    "name": "Hagurumon",
+    "moves": [
+      "31",
+      "34"
+    ],
+    "neighBours": {
+      "prev": [
+        "39",
+        "15"
+      ],
+      "next": [
+        "64",
+        "76",
+        "80",
+        "86",
+        "100"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=39",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot009.png"
+  },
+  "40": {
+    "id": 40,
+    "name": "Patamon",
+    "moves": [
+      "54",
+      "114"
+    ],
+    "neighBours": {
+      "prev": [
+        "40",
+        "10"
+      ],
+      "next": [
+        "61",
+        "62",
+        "91",
+        "97",
+        "107",
+        "278"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=40",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot096.png"
+  },
+  "41": {
+    "id": 41,
+    "name": "Hackmon",
+    "moves": [
+      "93",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "41",
+        "6"
+      ],
+      "next": [
+        "74",
+        "84",
+        "100",
+        "272",
+        "275",
+        "277"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=41",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot687.png"
+  },
+  "42": {
+    "id": 42,
+    "name": "Palmon",
+    "moves": [
+      "21",
+      "101"
+    ],
+    "neighBours": {
+      "prev": [
+        "42",
+        "7"
+      ],
+      "next": [
+        "60",
+        "77",
+        "82",
+        "93",
+        "102",
+        "273"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=42",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot348.png"
+  },
+  "43": {
+    "id": 43,
+    "name": "DemiDevimon",
+    "moves": [
+      "10",
+      "121"
+    ],
+    "neighBours": {
+      "prev": [
+        "43",
+        "9"
+      ],
+      "next": [
+        "55",
+        "71",
+        "73",
+        "92",
+        "98"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=43",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot097.png"
+  },
+  "44": {
+    "id": 44,
+    "name": "Biyomon",
+    "moves": [
+      "54",
+      "114"
+    ],
+    "neighBours": {
+      "prev": [
+        "44",
+        "13"
+      ],
+      "next": [
+        "56",
+        "66",
+        "71",
+        "97",
+        "264"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=44",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot307.png"
+  },
+  "45": {
+    "id": 45,
+    "name": "Falcomon",
+    "moves": [
+      "116",
+      "103"
+    ],
+    "neighBours": {
+      "prev": [
+        "45",
+        "10"
+      ],
+      "next": [
+        "56",
+        "61",
+        "87",
+        "103"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=45",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot705.png"
+  },
+  "46": {
+    "id": 46,
+    "name": "Veemon",
+    "moves": [
+      "81",
+      "51"
+    ],
+    "neighBours": {
+      "prev": [
+        "46",
+        "8"
+      ],
+      "next": [
+        "61",
+        "99",
+        "238",
+        "239",
+        "263",
+        "271"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=46",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot114.png"
+  },
+  "47": {
+    "id": 47,
+    "name": "Salamon",
+    "moves": [
+      "64",
+      "93"
+    ],
+    "neighBours": {
+      "prev": [
+        "47",
+        "11"
+      ],
+      "next": [
+        "88",
+        "91",
+        "99",
+        "105",
+        "107",
+        "275"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=47",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot361.png"
+  },
+  "48": {
+    "id": 48,
+    "name": "Betamon",
+    "moves": [
+      "11",
+      "103"
+    ],
+    "neighBours": {
+      "prev": [
+        "48",
+        "14"
+      ],
+      "next": [
+        "67",
+        "78",
+        "83",
+        "96",
+        "102",
+        "264"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=48",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot389.png"
+  },
+  "49": {
+    "id": 49,
+    "name": "Hawkmon",
+    "moves": [
+      "51",
+      "54"
+    ],
+    "neighBours": {
+      "prev": [
+        "49",
+        "10"
+      ],
+      "next": [
+        "56",
+        "97",
+        "103",
+        "104",
+        "264"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=49",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot706.png"
+  },
+  "50": {
+    "id": 50,
+    "name": "Lalamon",
+    "moves": [
+      "30",
+      "101"
+    ],
+    "neighBours": {
+      "prev": [
+        "50",
+        "7"
+      ],
+      "next": [
+        "60",
+        "82",
+        "93",
+        "102"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=50",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot056.png"
+  },
+  "51": {
+    "id": 51,
+    "name": "Lucemon",
+    "moves": [
+      "99",
+      "66",
+      "68",
+      "97"
+    ],
+    "neighBours": {
+      "prev": [
+        "51",
+        "10"
+      ],
+      "next": [
+        "62",
+        "92",
+        "162"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=51",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot390.png"
+  },
+  "52": {
+    "id": 52,
+    "name": "Renamon",
+    "moves": [
+      "24",
+      "102"
+    ],
+    "neighBours": {
+      "prev": [
+        "52",
+        "7"
+      ],
+      "next": [
+        "60",
+        "69",
+        "71",
+        "101",
+        "274",
+        "281"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=52",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot391.png"
+  },
+  "53": {
+    "id": 53,
+    "name": "Lopmon",
+    "moves": [
+      "44",
+      "125"
+    ],
+    "neighBours": {
+      "prev": [
+        "53",
+        "12"
+      ],
+      "next": [
+        "59",
+        "68",
+        "92",
+        "101",
+        "273",
+        "274"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=53",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot750.png"
+  },
+  "54": {
+    "id": 54,
+    "name": "Wormmon",
+    "moves": [
+      "30",
+      "127"
+    ],
+    "neighBours": {
+      "prev": [
+        "54",
+        "13"
+      ],
+      "next": [
+        "55",
+        "66",
+        "77",
+        "87",
+        "108",
+        "276"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=54",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot392.png"
+  },
+  "55": {
+    "id": 55,
+    "name": "IceDevimon",
+    "moves": [
+      "12",
+      "91",
+      "77"
+    ],
+    "neighBours": {
+      "prev": [
+        "55",
+        "20",
+        "43",
+        "54"
+      ],
+      "next": [
+        "114",
+        "125",
+        "163",
+        "282",
+        "292"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=55",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot730.png"
+  },
+  "56": {
+    "id": 56,
+    "name": "Aquilamon",
+    "moves": [
+      "52",
+      "55",
+      "57"
+    ],
+    "neighBours": {
+      "prev": [
+        "56",
+        "44",
+        "45",
+        "49"
+      ],
+      "next": [
+        "115",
+        "119",
+        "126",
+        "157",
+        "297"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=56",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot015.png"
+  },
+  "57": {
+    "id": 57,
+    "name": "Ankylomon",
+    "moves": [
+      "45",
+      "105",
+      "47"
+    ],
+    "neighBours": {
+      "prev": [
+        "57",
+        "19",
+        "30",
+        "32"
+      ],
+      "next": [
+        "112",
+        "124",
+        "128",
+        "146",
+        "287"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=57",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot711.png"
+  },
+  "58": {
+    "id": 58,
+    "name": "Ikkakumon",
+    "moves": [
+      "12",
+      "17",
+      "93"
+    ],
+    "neighBours": {
+      "prev": [
+        "58",
+        "32",
+        "33",
+        "35"
+      ],
+      "next": [
+        "129",
+        "145",
+        "147",
+        "295"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=58",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot344.png"
+  },
+  "59": {
+    "id": 59,
+    "name": "Wizardmon",
+    "moves": [
+      "75",
+      "77",
+      "55"
+    ],
+    "neighBours": {
+      "prev": [
+        "59",
+        "20",
+        "29",
+        "53"
+      ],
+      "next": [
+        "114",
+        "133",
+        "166",
+        "298"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=59",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot377.png"
+  },
+  "60": {
+    "id": 60,
+    "name": "Woodmon",
+    "moves": [
+      "25",
+      "22",
+      "85"
+    ],
+    "neighBours": {
+      "prev": [
+        "60",
+        "42",
+        "50",
+        "52",
+        "257"
+      ],
+      "next": [
+        "125",
+        "130",
+        "140"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=60",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot393.png"
+  },
+  "61": {
+    "id": 61,
+    "name": "ExVeemon",
+    "moves": [
+      "82",
+      "87",
+      "65"
+    ],
+    "neighBours": {
+      "prev": [
+        "61",
+        "40",
+        "45",
+        "46"
+      ],
+      "next": [
+        "138",
+        "146",
+        "158",
+        "283",
+        "293"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=61",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot365.png"
+  },
+  "62": {
+    "id": 62,
+    "name": "Angemon",
+    "moves": [
+      "65",
+      "94",
+      "67"
+    ],
+    "neighBours": {
+      "prev": [
+        "62",
+        "28",
+        "40",
+        "51"
+      ],
+      "next": [
+        "119",
+        "124",
+        "146",
+        "291",
+        "297"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=62",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot087.png"
+  },
+  "63": {
+    "id": 63,
+    "name": "Ogremon",
+    "moves": [
+      "42",
+      "120",
+      "72"
+    ],
+    "neighBours": {
+      "prev": [
+        "63",
+        "20",
+        "23",
+        "31"
+      ],
+      "next": [
+        "132",
+        "133",
+        "164",
+        "290"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=63",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot394.png"
+  },
+  "64": {
+    "id": 64,
+    "name": "Guardromon",
+    "moves": [
+      "32",
+      "112",
+      "35"
+    ],
+    "neighBours": {
+      "prev": [
+        "64",
+        "37",
+        "38",
+        "39"
+      ],
+      "next": [
+        "111",
+        "122",
+        "137",
+        "155",
+        "286"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=64",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot341.png"
+  },
+  "65": {
+    "id": 65,
+    "name": "GaoGamon",
+    "moves": [
+      "55",
+      "57",
+      "12"
+    ],
+    "neighBours": {
+      "prev": [
+        "65",
+        "23",
+        "24",
+        "31"
+      ],
+      "next": [
+        "122",
+        "147",
+        "164"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=65",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot068.png"
+  },
+  "66": {
+    "id": 66,
+    "name": "Kabuterimon",
+    "moves": [
+      "22",
+      "114",
+      "35"
+    ],
+    "neighBours": {
+      "prev": [
+        "66",
+        "36",
+        "44",
+        "54"
+      ],
+      "next": [
+        "109",
+        "125",
+        "159"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=66",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot304.png"
+  },
+  "67": {
+    "id": 67,
+    "name": "ShellNumemon",
+    "moves": [
+      "20",
+      "123",
+      "112"
+    ],
+    "neighBours": {
+      "prev": [
+        "67",
+        "22",
+        "33",
+        "48"
+      ],
+      "next": [
+        "134",
+        "142",
+        "149"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=67",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot455.png"
+  },
+  "68": {
+    "id": 68,
+    "name": "Gargomon",
+    "moves": [
+      "40",
+      "37",
+      "87"
+    ],
+    "neighBours": {
+      "prev": [
+        "68",
+        "23",
+        "35",
+        "53",
+        "328"
+      ],
+      "next": [
+        "110",
+        "151",
+        "160"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=68",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot710.png"
+  },
+  "69": {
+    "id": 69,
+    "name": "Garurumon",
+    "moves": [
+      "116",
+      "45",
+      "138"
+    ],
+    "neighBours": {
+      "prev": [
+        "69",
+        "21",
+        "25",
+        "52"
+      ],
+      "next": [
+        "129",
+        "135",
+        "139",
+        "164"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=69",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot012.png"
+  },
+  "70": {
+    "id": 70,
+    "name": "Garurumon (Blk)",
+    "moves": [
+      "116",
+      "45",
+      "119"
+    ],
+    "neighBours": {
+      "prev": [
+        "70",
+        "21",
+        "24",
+        "26"
+      ],
+      "next": [
+        "143",
+        "147",
+        "165",
+        "296"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=70",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot714.png"
+  },
+  "71": {
+    "id": 71,
+    "name": "Kyubimon",
+    "moves": [
+      "5",
+      "10",
+      "114"
+    ],
+    "neighBours": {
+      "prev": [
+        "71",
+        "43",
+        "44",
+        "52"
+      ],
+      "next": [
+        "130",
+        "156",
+        "163"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=71",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot395.png"
+  },
+  "72": {
+    "id": 72,
+    "name": "Growlmon",
+    "moves": [
+      "2",
+      "42",
+      "134"
+    ],
+    "neighBours": {
+      "prev": [
+        "72",
+        "18",
+        "27",
+        "31"
+      ],
+      "next": [
+        "120",
+        "151",
+        "152",
+        "154",
+        "284"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=72",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot078.png"
+  },
+  "73": {
+    "id": 73,
+    "name": "Kurisarimon",
+    "moves": [
+      "72",
+      "32",
+      "123"
+    ],
+    "neighBours": {
+      "prev": [
+        "73",
+        "24",
+        "29",
+        "43",
+        "251",
+        "258"
+      ],
+      "next": [
+        "113",
+        "123",
+        "130",
+        "282"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=73",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot630.png"
+  },
+  "74": {
+    "id": 74,
+    "name": "Greymon",
+    "moves": [
+      "2",
+      "82",
+      "129"
+    ],
+    "neighBours": {
+      "prev": [
+        "74",
+        "17",
+        "37",
+        "41"
+      ],
+      "next": [
+        "128",
+        "150",
+        "152",
+        "153"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=74",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot326.png"
+  },
+  "75": {
+    "id": 75,
+    "name": "Greymon (Blue)",
+    "moves": [
+      "2",
+      "7",
+      "118"
+    ],
+    "neighBours": {
+      "prev": [
+        "75",
+        "18",
+        "27",
+        "31"
+      ],
+      "next": [
+        "135",
+        "136",
+        "153",
+        "295"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=75",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot712.png"
+  },
+  "76": {
+    "id": 76,
+    "name": "Clockmon",
+    "moves": [
+      "35",
+      "93",
+      "20"
+    ],
+    "neighBours": {
+      "prev": [
+        "76",
+        "30",
+        "34",
+        "37",
+        "39"
+      ],
+      "next": [
+        "111",
+        "136",
+        "137",
+        "166"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=76",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot398.png"
+  },
+  "77": {
+    "id": 77,
+    "name": "Kuwagamon",
+    "moves": [
+      "22",
+      "72",
+      "57"
+    ],
+    "neighBours": {
+      "prev": [
+        "77",
+        "36",
+        "42",
+        "54"
+      ],
+      "next": [
+        "118",
+        "121",
+        "125"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=77",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot367.png"
+  },
+  "78": {
+    "id": 78,
+    "name": "Gekomon",
+    "moves": [
+      "15",
+      "121",
+      "104"
+    ],
+    "neighBours": {
+      "prev": [
+        "78",
+        "22",
+        "33",
+        "48"
+      ],
+      "next": [
+        "134",
+        "145",
+        "149"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=78",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot399.png"
+  },
+  "79": {
+    "id": 79,
+    "name": "Geremon",
+    "moves": [
+      "30",
+      "112",
+      "32"
+    ],
+    "neighBours": {
+      "prev": [
+        "79",
+        "19",
+        "21",
+        "34"
+      ],
+      "next": [
+        "116",
+        "127",
+        "155"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=79",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot729.png"
+  },
+  "80": {
+    "id": 80,
+    "name": "GoldNumemon",
+    "moves": [
+      "106",
+      "99",
+      "60"
+    ],
+    "neighBours": {
+      "prev": [
+        "80",
+        "19",
+        "28",
+        "39",
+        "252"
+      ],
+      "next": [
+        "142",
+        "144",
+        "207"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=80",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot113.png"
+  },
+  "81": {
+    "id": 81,
+    "name": "Cyclonemon",
+    "moves": [
+      "120",
+      "47",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "81",
+        "18",
+        "19",
+        "38"
+      ],
+      "next": [
+        "135",
+        "137",
+        "150"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=81",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot452.png"
+  },
+  "82": {
+    "id": 82,
+    "name": "Sunflowmon",
+    "moves": [
+      "25",
+      "65",
+      "94"
+    ],
+    "neighBours": {
+      "prev": [
+        "82",
+        "36",
+        "42",
+        "50",
+        "257"
+      ],
+      "next": [
+        "117",
+        "159",
+        "161"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=82",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot058.png"
+  },
+  "83": {
+    "id": 83,
+    "name": "Seadramon",
+    "moves": [
+      "15",
+      "102",
+      "131"
+    ],
+    "neighBours": {
+      "prev": [
+        "83",
+        "22",
+        "33",
+        "48"
+      ],
+      "next": [
+        "134",
+        "145",
+        "149",
+        "339"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=83",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot347.png"
+  },
+  "84": {
+    "id": 84,
+    "name": "GeoGreymon",
+    "moves": [
+      "2",
+      "82",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "84",
+        "17",
+        "27",
+        "41"
+      ],
+      "next": [
+        "120",
+        "128",
+        "158",
+        "287"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=84",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot054.png"
+  },
+  "85": {
+    "id": 85,
+    "name": "Sukamon",
+    "moves": [
+      "10",
+      "125",
+      "75"
+    ],
+    "neighBours": {
+      "prev": [
+        "85",
+        "17",
+        "21",
+        "37",
+        "253"
+      ],
+      "next": [
+        "116",
+        "127",
+        "144"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=85",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot313.png"
+  },
+  "86": {
+    "id": 86,
+    "name": "Starmon",
+    "moves": [
+      "82",
+      "62",
+      "85"
+    ],
+    "neighBours": {
+      "prev": [
+        "86",
+        "30",
+        "34",
+        "37",
+        "39"
+      ],
+      "next": [
+        "127",
+        "148",
+        "155",
+        "286",
+        "289"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=86",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot014.png"
+  },
+  "87": {
+    "id": 87,
+    "name": "Stingmon",
+    "moves": [
+      "22",
+      "57",
+      "52"
+    ],
+    "neighBours": {
+      "prev": [
+        "87",
+        "36",
+        "45",
+        "54",
+        "256"
+      ],
+      "next": [
+        "113",
+        "118",
+        "138",
+        "293"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=87",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot091.png"
+  },
+  "88": {
+    "id": 88,
+    "name": "Socerimon",
+    "moves": [
+      "15",
+      "131",
+      "94"
+    ],
+    "neighBours": {
+      "prev": [
+        "88",
+        "20",
+        "32",
+        "47"
+      ],
+      "next": [
+        "110",
+        "141",
+        "166"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=88",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot755.png"
+  },
+  "89": {
+    "id": 89,
+    "name": "Tankmon",
+    "moves": [
+      "32",
+      "118",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "89",
+        "18",
+        "19",
+        "30"
+      ],
+      "next": [
+        "111",
+        "120",
+        "121",
+        "136",
+        "299"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=89",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot621.png"
+  },
+  "90": {
+    "id": 90,
+    "name": "Tyrannomon",
+    "moves": [
+      "129",
+      "2",
+      "82"
+    ],
+    "neighBours": {
+      "prev": [
+        "90",
+        "17",
+        "18",
+        "27"
+      ],
+      "next": [
+        "148",
+        "150",
+        "153",
+        "154"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=90",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot363.png"
+  },
+  "91": {
+    "id": 91,
+    "name": "Gatomon",
+    "moves": [
+      "65",
+      "96",
+      "99"
+    ],
+    "neighBours": {
+      "prev": [
+        "91",
+        "35",
+        "40",
+        "47",
+        "259"
+      ],
+      "next": [
+        "117",
+        "126",
+        "161",
+        "296"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=91",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot092.png"
+  },
+  "92": {
+    "id": 92,
+    "name": "Devimon",
+    "moves": [
+      "72",
+      "90",
+      "77"
+    ],
+    "neighBours": {
+      "prev": [
+        "92",
+        "43",
+        "51",
+        "53",
+        "254"
+      ],
+      "next": [
+        "113",
+        "114",
+        "143",
+        "153",
+        "290"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=92",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot093.png"
+  },
+  "93": {
+    "id": 93,
+    "name": "Togemon",
+    "moves": [
+      "22",
+      "103",
+      "40"
+    ],
+    "neighBours": {
+      "prev": [
+        "93",
+        "23",
+        "42",
+        "50",
+        "256"
+      ],
+      "next": [
+        "140",
+        "147",
+        "161"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=93",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot349.png"
+  },
+  "94": {
+    "id": 94,
+    "name": "Dorugamon",
+    "moves": [
+      "42",
+      "112",
+      "116"
+    ],
+    "neighBours": {
+      "prev": [
+        "94",
+        "24",
+        "25",
+        "38",
+        "258"
+      ],
+      "next": [
+        "131",
+        "135",
+        "158",
+        "288"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=94",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot396.png"
+  },
+  "95": {
+    "id": 95,
+    "name": "Nanimon",
+    "moves": [
+      "42",
+      "121",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "95",
+        "21",
+        "24",
+        "31",
+        "253"
+      ],
+      "next": [
+        "112",
+        "127",
+        "132"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=95",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot375.png"
+  },
+  "96": {
+    "id": 96,
+    "name": "Numemon",
+    "moves": [
+      "30",
+      "127",
+      "12"
+    ],
+    "neighBours": {
+      "prev": [
+        "96",
+        "22",
+        "25",
+        "48"
+      ],
+      "next": [
+        "116",
+        "142",
+        "156"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=96",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot070.png"
+  },
+  "97": {
+    "id": 97,
+    "name": "Birdramon",
+    "moves": [
+      "5",
+      "101",
+      "7"
+    ],
+    "neighBours": {
+      "prev": [
+        "97",
+        "40",
+        "44",
+        "49"
+      ],
+      "next": [
+        "115",
+        "119",
+        "131",
+        "157",
+        "284",
+        "297"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=97",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot308.png"
+  },
+  "98": {
+    "id": 98,
+    "name": "Bakemon",
+    "moves": [
+      "75",
+      "119",
+      "90"
+    ],
+    "neighBours": {
+      "prev": [
+        "98",
+        "20",
+        "29",
+        "43"
+      ],
+      "next": [
+        "114",
+        "140",
+        "143",
+        "163",
+        "298",
+        "300"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=98",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot013.png"
+  },
+  "99": {
+    "id": 99,
+    "name": "Veedramon",
+    "moves": [
+      "52",
+      "134",
+      "62"
+    ],
+    "neighBours": {
+      "prev": [
+        "99",
+        "25",
+        "46",
+        "47",
+        "255"
+      ],
+      "next": [
+        "115",
+        "123",
+        "151",
+        "154"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=99",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot397.png"
+  },
+  "100": {
+    "id": 100,
+    "name": "PlatinumSukamon",
+    "moves": [
+      "107",
+      "125",
+      "92"
+    ],
+    "neighBours": {
+      "prev": [
+        "100",
+        "29",
+        "39",
+        "41"
+      ],
+      "next": [
+        "116",
+        "144",
+        "155",
+        "286"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=100",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot752.png"
+  },
+  "101": {
+    "id": 101,
+    "name": "BlackGatomon",
+    "moves": [
+      "75",
+      "45",
+      "85"
+    ],
+    "neighBours": {
+      "prev": [
+        "101",
+        "20",
+        "52",
+        "53",
+        "253"
+      ],
+      "next": [
+        "123",
+        "136",
+        "163",
+        "165"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=101",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot043.png"
+  },
+  "102": {
+    "id": 102,
+    "name": "Vegiemon",
+    "moves": [
+      "25",
+      "127",
+      "30"
+    ],
+    "neighBours": {
+      "prev": [
+        "102",
+        "26",
+        "42",
+        "48",
+        "50",
+        "257"
+      ],
+      "next": [
+        "109",
+        "132",
+        "159"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=102",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot314.png"
+  },
+  "103": {
+    "id": 103,
+    "name": "Peckmon",
+    "moves": [
+      "52",
+      "119",
+      "138"
+    ],
+    "neighBours": {
+      "prev": [
+        "103",
+        "28",
+        "45",
+        "49"
+      ],
+      "next": [
+        "110",
+        "141",
+        "157"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=103",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot702.png"
+  },
+  "104": {
+    "id": 104,
+    "name": "Meramon",
+    "moves": [
+      "110",
+      "2",
+      "5"
+    ],
+    "neighBours": {
+      "prev": [
+        "104",
+        "17",
+        "27",
+        "34",
+        "49"
+      ],
+      "next": [
+        "133",
+        "139",
+        "143",
+        "148",
+        "284",
+        "299"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=104",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot010.png"
+  },
+  "105": {
+    "id": 105,
+    "name": "Frigimon",
+    "moves": [
+      "12",
+      "17",
+      "96"
+    ],
+    "neighBours": {
+      "prev": [
+        "105",
+        "25",
+        "26",
+        "32",
+        "47"
+      ],
+      "next": [
+        "117",
+        "129",
+        "156",
+        "289"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=105",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot370.png"
+  },
+  "106": {
+    "id": 106,
+    "name": "Leomon",
+    "moves": [
+      "42",
+      "110",
+      "62"
+    ],
+    "neighBours": {
+      "prev": [
+        "106",
+        "21",
+        "23",
+        "24",
+        "251"
+      ],
+      "next": [
+        "112",
+        "122",
+        "139",
+        "152",
+        "288"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=106",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot072.png"
+  },
+  "107": {
+    "id": 107,
+    "name": "Reppamon",
+    "moves": [
+      "62",
+      "67",
+      "96"
+    ],
+    "neighBours": {
+      "prev": [
+        "107",
+        "26",
+        "28",
+        "40",
+        "47",
+        "337"
+      ],
+      "next": [
+        "131",
+        "141",
+        "160"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=107",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot077.png"
+  },
+  "108": {
+    "id": 108,
+    "name": "Waspmon",
+    "moves": [
+      "32",
+      "118",
+      "40"
+    ],
+    "neighBours": {
+      "prev": [
+        "108",
+        "36",
+        "38",
+        "54",
+        "256"
+      ],
+      "next": [
+        "109",
+        "118",
+        "121",
+        "160"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=108",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot454.png"
+  },
+  "109": {
+    "id": 109,
+    "name": "MegaKabuterimon",
+    "moves": [
+      "27",
+      "127",
+      "26",
+      "28"
+    ],
+    "neighBours": {
+      "prev": [
+        "109",
+        "66",
+        "102",
+        "108"
+      ],
+      "next": [
+        "181",
+        "211",
+        "215"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=109",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot305.png"
+  },
+  "110": {
+    "id": 110,
+    "name": "Antylamon",
+    "moves": [
+      "87",
+      "103",
+      "88",
+      "86"
+    ],
+    "neighBours": {
+      "prev": [
+        "110",
+        "68",
+        "88",
+        "103",
+        "274",
+        "281"
+      ],
+      "next": [
+        "184",
+        "195",
+        "196",
+        "241"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=110",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot731.png"
+  },
+  "111": {
+    "id": 111,
+    "name": "Andromon",
+    "moves": [
+      "134",
+      "96",
+      "33",
+      "56"
+    ],
+    "neighBours": {
+      "prev": [
+        "111",
+        "64",
+        "76",
+        "89",
+        "265",
+        "270"
+      ],
+      "next": [
+        "183",
+        "193",
+        "202"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=111",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot342.png"
+  },
+  "112": {
+    "id": 112,
+    "name": "Meteormon",
+    "moves": [
+      "47",
+      "7",
+      "46",
+      "86"
+    ],
+    "neighBours": {
+      "prev": [
+        "112",
+        "57",
+        "95",
+        "106",
+        "260",
+        "268",
+        "273"
+      ],
+      "next": [
+        "169",
+        "195",
+        "222"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=112",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot756.png"
+  },
+  "113": {
+    "id": 113,
+    "name": "Infermon",
+    "moves": [
+      "72",
+      "80",
+      "88",
+      "73"
+    ],
+    "neighBours": {
+      "prev": [
+        "113",
+        "73",
+        "87",
+        "92",
+        "262"
+      ],
+      "next": [
+        "173",
+        "196",
+        "212",
+        "301"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=113",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot627.png"
+  },
+  "114": {
+    "id": 114,
+    "name": "Myotismon",
+    "moves": [
+      "77",
+      "91",
+      "76",
+      "73"
+    ],
+    "neighBours": {
+      "prev": [
+        "114",
+        "55",
+        "59",
+        "92",
+        "98",
+        "269"
+      ],
+      "next": [
+        "173",
+        "203",
+        "205",
+        "301",
+        "306"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=114",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot085.png"
+  },
+  "115": {
+    "id": 115,
+    "name": "AeroVeedramon",
+    "moves": [
+      "134",
+      "116",
+      "53",
+      "63"
+    ],
+    "neighBours": {
+      "prev": [
+        "115",
+        "56",
+        "97",
+        "99",
+        "266"
+      ],
+      "next": [
+        "168",
+        "199",
+        "229",
+        "308"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=115",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot400.png"
+  },
+  "116": {
+    "id": 116,
+    "name": "Etemon",
+    "moves": [
+      "77",
+      "138",
+      "131",
+      "76"
+    ],
+    "neighBours": {
+      "prev": [
+        "116",
+        "79",
+        "85",
+        "96",
+        "100"
+      ],
+      "next": [
+        "205",
+        "207",
+        "222",
+        "305",
+        "314"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=116",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot311.png"
+  },
+  "117": {
+    "id": 117,
+    "name": "Angewomon",
+    "moves": [
+      "67",
+      "96",
+      "99",
+      "66"
+    ],
+    "neighBours": {
+      "prev": [
+        "117",
+        "82",
+        "91",
+        "105"
+      ],
+      "next": [
+        "176",
+        "215",
+        "217",
+        "245"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=117",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot148.png"
+  },
+  "118": {
+    "id": 118,
+    "name": "Okuwamon",
+    "moves": [
+      "37",
+      "30",
+      "118",
+      "23"
+    ],
+    "neighBours": {
+      "prev": [
+        "118",
+        "77",
+        "87",
+        "108"
+      ],
+      "next": [
+        "181",
+        "196",
+        "211"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=118",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot401.png"
+  },
+  "119": {
+    "id": 119,
+    "name": "Garudamon",
+    "moves": [
+      "7",
+      "57",
+      "6",
+      "131"
+    ],
+    "neighBours": {
+      "prev": [
+        "119",
+        "56",
+        "62",
+        "97"
+      ],
+      "next": [
+        "189",
+        "214",
+        "229",
+        "302",
+        "307"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=119",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot309.png"
+  },
+  "120": {
+    "id": 120,
+    "name": "Gigadramon",
+    "moves": [
+      "50",
+      "2",
+      "53",
+      "36"
+    ],
+    "neighBours": {
+      "prev": [
+        "120",
+        "72",
+        "84",
+        "89",
+        "279"
+      ],
+      "next": [
+        "182",
+        "221",
+        "225",
+        "243",
+        "312",
+        "318"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=120",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot402.png"
+  },
+  "121": {
+    "id": 121,
+    "name": "CannonBeemon",
+    "moves": [
+      "37",
+      "7",
+      "33",
+      "10"
+    ],
+    "neighBours": {
+      "prev": [
+        "121",
+        "77",
+        "89",
+        "108",
+        "338",
+        "276"
+      ],
+      "next": [
+        "182",
+        "192",
+        "193"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=121",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot727.png"
+  },
+  "122": {
+    "id": 122,
+    "name": "GrapLeomon",
+    "moves": [
+      "37",
+      "119",
+      "33",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "122",
+        "64",
+        "65",
+        "106"
+      ],
+      "next": [
+        "185",
+        "200",
+        "204",
+        "314"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=122",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot403.png"
+  },
+  "123": {
+    "id": 123,
+    "name": "Cyberdramon",
+    "moves": [
+      "30",
+      "121",
+      "43",
+      "73"
+    ],
+    "neighBours": {
+      "prev": [
+        "123",
+        "73",
+        "99",
+        "101",
+        "271",
+        "274"
+      ],
+      "next": [
+        "167",
+        "189",
+        "194"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=123",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot719.png"
+  },
+  "124": {
+    "id": 124,
+    "name": "Shakkoumon",
+    "moves": [
+      "67",
+      "109",
+      "66",
+      "46"
+    ],
+    "neighBours": {
+      "prev": [
+        "124",
+        "57",
+        "62"
+      ],
+      "next": [
+        "172",
+        "178",
+        "184"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=124",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot723.png"
+  },
+  "125": {
+    "id": 125,
+    "name": "Cherrymon",
+    "moves": [
+      "27",
+      "90",
+      "28",
+      "23"
+    ],
+    "neighBours": {
+      "prev": [
+        "125",
+        "55",
+        "60",
+        "66",
+        "77"
+      ],
+      "next": [
+        "180",
+        "181",
+        "206"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=125",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot379.png"
+  },
+  "126": {
+    "id": 126,
+    "name": "Silphymon",
+    "moves": [
+      "57",
+      "120",
+      "56",
+      "53"
+    ],
+    "neighBours": {
+      "prev": [
+        "126",
+        "56",
+        "91"
+      ],
+      "next": [
+        "186",
+        "199",
+        "214",
+        "245",
+        "307"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=126",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot720.png"
+  },
+  "127": {
+    "id": 127,
+    "name": "SuperStarmon",
+    "moves": [
+      "67",
+      "104",
+      "87",
+      "63"
+    ],
+    "neighBours": {
+      "prev": [
+        "127",
+        "79",
+        "85",
+        "86",
+        "95"
+      ],
+      "next": [
+        "179",
+        "189",
+        "207"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=127",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot079.png"
+  },
+  "128": {
+    "id": 128,
+    "name": "SkullGreymon",
+    "moves": [
+      "129",
+      "80",
+      "73",
+      "43"
+    ],
+    "neighBours": {
+      "prev": [
+        "128",
+        "57",
+        "74",
+        "84",
+        "277"
+      ],
+      "next": [
+        "188",
+        "194",
+        "197"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=128",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot404.png"
+  },
+  "129": {
+    "id": 129,
+    "name": "Zudomon",
+    "moves": [
+      "57",
+      "123",
+      "13",
+      "18"
+    ],
+    "neighBours": {
+      "prev": [
+        "129",
+        "58",
+        "69",
+        "105",
+        "260"
+      ],
+      "next": [
+        "172",
+        "218",
+        "223",
+        "210"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=129",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot345.png"
+  },
+  "130": {
+    "id": 130,
+    "name": "Taomon",
+    "moves": [
+      "77",
+      "114",
+      "76",
+      "78"
+    ],
+    "neighBours": {
+      "prev": [
+        "130",
+        "60",
+        "71",
+        "73"
+      ],
+      "next": [
+        "180",
+        "186",
+        "195"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=130",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot405.png"
+  },
+  "131": {
+    "id": 131,
+    "name": "Chirinmon",
+    "moves": [
+      "67",
+      "101",
+      "99",
+      "66"
+    ],
+    "neighBours": {
+      "prev": [
+        "131",
+        "94",
+        "97",
+        "107"
+      ],
+      "next": [
+        "190",
+        "191",
+        "223"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=131",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot084.png"
+  },
+  "132": {
+    "id": 132,
+    "name": "Digitamamon",
+    "moves": [
+      "87",
+      "27",
+      "80",
+      "83"
+    ],
+    "neighBours": {
+      "prev": [
+        "132",
+        "63",
+        "95",
+        "102"
+      ],
+      "next": [
+        "194",
+        "213",
+        "219"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=132",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot374.png"
+  },
+  "133": {
+    "id": 133,
+    "name": "SkullMeramon",
+    "moves": [
+      "127",
+      "90",
+      "43",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "133",
+        "59",
+        "63",
+        "104",
+        "261"
+      ],
+      "next": [
+        "179",
+        "212",
+        "216"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=133",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot406.png"
+  },
+  "134": {
+    "id": 134,
+    "name": "ShogunGekomon",
+    "moves": [
+      "17",
+      "20",
+      "18",
+      "13"
+    ],
+    "neighBours": {
+      "prev": [
+        "134",
+        "67",
+        "78",
+        "83"
+      ],
+      "next": [
+        "172",
+        "210",
+        "227",
+        "305"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=134",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot376.png"
+  },
+  "135": {
+    "id": 135,
+    "name": "DoruGreymon",
+    "moves": [
+      "47",
+      "121",
+      "3",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "135",
+        "69",
+        "75",
+        "81",
+        "94",
+        "279"
+      ],
+      "next": [
+        "167",
+        "190",
+        "312"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=135",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot407.png"
+  },
+  "136": {
+    "id": 136,
+    "name": "Knightmon",
+    "moves": [
+      "87",
+      "102",
+      "83",
+      "88"
+    ],
+    "neighBours": {
+      "prev": [
+        "136",
+        "75",
+        "76",
+        "89",
+        "101",
+        "263"
+      ],
+      "next": [
+        "183",
+        "200",
+        "230",
+        "311"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=136",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot718.png"
+  },
+  "137": {
+    "id": 137,
+    "name": "Datamon",
+    "moves": [
+      "40",
+      "90",
+      "36",
+      "86"
+    ],
+    "neighBours": {
+      "prev": [
+        "137",
+        "64",
+        "76",
+        "81"
+      ],
+      "next": [
+        "182",
+        "221",
+        "224"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=137",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot576.png"
+  },
+  "138": {
+    "id": 138,
+    "name": "Paildramon",
+    "moves": [
+      "87",
+      "37",
+      "83",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "138",
+        "61",
+        "87"
+      ],
+      "next": [
+        "170"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=138",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot408.png"
+  },
+  "139": {
+    "id": 139,
+    "name": "Panjyamon",
+    "moves": [
+      "17",
+      "119",
+      "16",
+      "13"
+    ],
+    "neighBours": {
+      "prev": [
+        "139",
+        "69",
+        "104",
+        "106",
+        "260"
+      ],
+      "next": [
+        "185",
+        "204",
+        "220"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=139",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot409.png"
+  },
+  "140": {
+    "id": 140,
+    "name": "Pumpkinmon",
+    "moves": [
+      "47",
+      "7",
+      "43",
+      "60"
+    ],
+    "neighBours": {
+      "prev": [
+        "140",
+        "60",
+        "93",
+        "98",
+        "268",
+        "273"
+      ],
+      "next": [
+        "206",
+        "216",
+        "231"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=140",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot596.png"
+  },
+  "141": {
+    "id": 141,
+    "name": "Piximon",
+    "moves": [
+      "67",
+      "17",
+      "66",
+      "94"
+    ],
+    "neighBours": {
+      "prev": [
+        "141",
+        "88",
+        "103",
+        "107",
+        "278"
+      ],
+      "next": [
+        "176",
+        "214",
+        "218"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=141",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot410.png"
+  },
+  "142": {
+    "id": 142,
+    "name": "BlackKingNumemon",
+    "moves": [
+      "106",
+      "60",
+      "136",
+      "76"
+    ],
+    "neighBours": {
+      "prev": [
+        "142",
+        "67",
+        "80",
+        "96",
+        "280"
+      ],
+      "next": [
+        "207",
+        "209",
+        "222"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=142",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot753.png"
+  },
+  "143": {
+    "id": 143,
+    "name": "BlueMeramon",
+    "moves": [
+      "7",
+      "125",
+      "6",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "143",
+        "70",
+        "92",
+        "98",
+        "104",
+        "266"
+      ],
+      "next": [
+        "197",
+        "203",
+        "216",
+        "243"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=143",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot177.png"
+  },
+  "144": {
+    "id": 144,
+    "name": "Vademon",
+    "moves": [
+      "30",
+      "77",
+      "92",
+      "76"
+    ],
+    "neighBours": {
+      "prev": [
+        "144",
+        "80",
+        "85",
+        "100"
+      ],
+      "next": [
+        "169",
+        "202",
+        "211"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=144",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot411.png"
+  },
+  "145": {
+    "id": 145,
+    "name": "Whamon",
+    "moves": [
+      "17",
+      "94",
+      "16",
+      "13"
+    ],
+    "neighBours": {
+      "prev": [
+        "145",
+        "58",
+        "78",
+        "83"
+      ],
+      "next": [
+        "210",
+        "218",
+        "225",
+        "313"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=145",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot021.png"
+  },
+  "146": {
+    "id": 146,
+    "name": "MagnaAngemon",
+    "moves": [
+      "67",
+      "94",
+      "66",
+      "99"
+    ],
+    "neighBours": {
+      "prev": [
+        "146",
+        "57",
+        "61",
+        "62",
+        "278"
+      ],
+      "next": [
+        "188",
+        "191",
+        "230",
+        "245",
+        "308"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=146",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot101.png"
+  },
+  "147": {
+    "id": 147,
+    "name": "MachGaogamon",
+    "moves": [
+      "37",
+      "105",
+      "53",
+      "58"
+    ],
+    "neighBours": {
+      "prev": [
+        "147",
+        "58",
+        "65",
+        "70",
+        "93",
+        "281"
+      ],
+      "next": [
+        "192",
+        "204",
+        "220",
+        "319"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=147",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot074.png"
+  },
+  "148": {
+    "id": 148,
+    "name": "Mamemon",
+    "moves": [
+      "47",
+      "138",
+      "43",
+      "48"
+    ],
+    "neighBours": {
+      "prev": [
+        "148",
+        "86",
+        "90",
+        "104"
+      ],
+      "next": [
+        "174",
+        "206",
+        "209"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=148",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot412.png"
+  },
+  "149": {
+    "id": 149,
+    "name": "MegaSeadramon",
+    "moves": [
+      "20",
+      "125",
+      "16",
+      "36"
+    ],
+    "neighBours": {
+      "prev": [
+        "149",
+        "67",
+        "78",
+        "83",
+        "264",
+        "270",
+        "338"
+      ],
+      "next": [
+        "210",
+        "225",
+        "227",
+        "313"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=149",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot132.png"
+  },
+  "150": {
+    "id": 150,
+    "name": "Megadramon",
+    "moves": [
+      "10",
+      "2",
+      "58",
+      "53"
+    ],
+    "neighBours": {
+      "prev": [
+        "150",
+        "74",
+        "81",
+        "90",
+        "264"
+      ],
+      "next": [
+        "168",
+        "208",
+        "221",
+        "308",
+        "318"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=150",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot301.png"
+  },
+  "151": {
+    "id": 151,
+    "name": "WarGrowlmon",
+    "moves": [
+      "134",
+      "123",
+      "3",
+      "63"
+    ],
+    "neighBours": {
+      "prev": [
+        "151",
+        "68",
+        "72",
+        "99",
+        "267"
+      ],
+      "next": [
+        "178",
+        "198",
+        "226",
+        "243",
+        "318"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=151",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot134.png"
+  },
+  "152": {
+    "id": 152,
+    "name": "MetalGreymon",
+    "moves": [
+      "87",
+      "110",
+      "8",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "152",
+        "72",
+        "74",
+        "106",
+        "264"
+      ],
+      "next": [
+        "174",
+        "177",
+        "226"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=152",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot302.png"
+  },
+  "153": {
+    "id": 153,
+    "name": "MetalGreymon (Blue)",
+    "moves": [
+      "47",
+      "120",
+      "8",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "153",
+        "74",
+        "75",
+        "90",
+        "92",
+        "280"
+      ],
+      "next": [
+        "174",
+        "177",
+        "208",
+        "241"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=153",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot327.png"
+  },
+  "154": {
+    "id": 154,
+    "name": "MetalTyrannomon",
+    "moves": [
+      "40",
+      "112",
+      "6",
+      "33"
+    ],
+    "neighBours": {
+      "prev": [
+        "154",
+        "72",
+        "90",
+        "99",
+        "277"
+      ],
+      "next": [
+        "208",
+        "198",
+        "226",
+        "315"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=154",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot364.png"
+  },
+  "155": {
+    "id": 155,
+    "name": "MetalMamemon",
+    "moves": [
+      "138",
+      "118",
+      "33",
+      "6"
+    ],
+    "neighBours": {
+      "prev": [
+        "155",
+        "64",
+        "79",
+        "86",
+        "100"
+      ],
+      "next": [
+        "169",
+        "202",
+        "209"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=155",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot413.png"
+  },
+  "156": {
+    "id": 156,
+    "name": "Monzaemon",
+    "moves": [
+      "87",
+      "27",
+      "10",
+      "83"
+    ],
+    "neighBours": {
+      "prev": [
+        "156",
+        "71",
+        "96",
+        "105",
+        "274"
+      ],
+      "next": [
+        "185",
+        "186",
+        "219"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=156",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot061.png"
+  },
+  "157": {
+    "id": 157,
+    "name": "Crowmon",
+    "moves": [
+      "57",
+      "37",
+      "56",
+      "131"
+    ],
+    "neighBours": {
+      "prev": [
+        "157",
+        "56",
+        "97",
+        "103"
+      ],
+      "next": [
+        "180",
+        "219",
+        "229",
+        "302",
+        "340"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=157",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot721.png"
+  },
+  "158": {
+    "id": 158,
+    "name": "RizeGreymon",
+    "moves": [
+      "134",
+      "118",
+      "8",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "158",
+        "61",
+        "84",
+        "94",
+        "261",
+        "275"
+      ],
+      "next": [
+        "177",
+        "188",
+        "309"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=158",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot071.png"
+  },
+  "159": {
+    "id": 159,
+    "name": "Lilamon",
+    "moves": [
+      "27",
+      "96",
+      "28",
+      "26"
+    ],
+    "neighBours": {
+      "prev": [
+        "159",
+        "66",
+        "82",
+        "102",
+        "276"
+      ],
+      "next": [
+        "228",
+        "231",
+        "232"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=159",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot073.png"
+  },
+  "160": {
+    "id": 160,
+    "name": "Rapidmon",
+    "moves": [
+      "37",
+      "7",
+      "38",
+      "33"
+    ],
+    "neighBours": {
+      "prev": [
+        "160",
+        "68",
+        "107",
+        "108"
+      ],
+      "next": [
+        "192",
+        "193",
+        "224"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=160",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot722.png"
+  },
+  "161": {
+    "id": 161,
+    "name": "Lillymon",
+    "moves": [
+      "27",
+      "94",
+      "26",
+      "28"
+    ],
+    "neighBours": {
+      "prev": [
+        "161",
+        "82",
+        "91",
+        "93",
+        "276"
+      ],
+      "next": [
+        "215",
+        "231",
+        "232"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=161",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot359.png"
+  },
+  "162": {
+    "id": 162,
+    "name": "Lucemon FM",
+    "moves": [
+      "68",
+      "78",
+      "91",
+      "79",
+      "69"
+    ],
+    "neighBours": {
+      "prev": [
+        "162",
+        "51"
+      ],
+      "next": [
+        "237"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=162",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot039.png"
+  },
+  "163": {
+    "id": 163,
+    "name": "LadyDevimon",
+    "moves": [
+      "77",
+      "91",
+      "76",
+      "78"
+    ],
+    "neighBours": {
+      "prev": [
+        "163",
+        "55",
+        "71",
+        "98",
+        "101",
+        "330"
+      ],
+      "next": [
+        "217",
+        "228",
+        "232"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=163",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot107.png"
+  },
+  "164": {
+    "id": 164,
+    "name": "WereGarurumon",
+    "moves": [
+      "47",
+      "7",
+      "43",
+      "48"
+    ],
+    "neighBours": {
+      "prev": [
+        "164",
+        "63",
+        "65",
+        "69",
+        "263",
+        "271"
+      ],
+      "next": [
+        "220",
+        "223",
+        "224"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=164",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot140.png"
+  },
+  "165": {
+    "id": 165,
+    "name": "WereGarurumon (Blk)",
+    "moves": [
+      "87",
+      "2",
+      "43",
+      "88"
+    ],
+    "neighBours": {
+      "prev": [
+        "165",
+        "70",
+        "101",
+        "269"
+      ],
+      "next": [
+        "204",
+        "219",
+        "224",
+        "319"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=165",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot715.png"
+  },
+  "166": {
+    "id": 166,
+    "name": "Wisemon",
+    "moves": [
+      "77",
+      "131",
+      "78",
+      "76"
+    ],
+    "neighBours": {
+      "prev": [
+        "166",
+        "59",
+        "76",
+        "88"
+      ],
+      "next": [
+        "173",
+        "205",
+        "213"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=166",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot726.png"
+  },
+  "167": {
+    "id": 167,
+    "name": "Alphamon",
+    "moves": [
+      "86",
+      "115",
+      "128",
+      "16",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "167",
+        "123",
+        "135",
+        "288"
+      ],
+      "next": [
+        "322"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=167",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot416.png"
+  },
+  "168": {
+    "id": 168,
+    "name": "UlforceVeedramon",
+    "moves": [
+      "53",
+      "115",
+      "117",
+      "58",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "168",
+        "115",
+        "150",
+        "283"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=168",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot417.png"
+  },
+  "169": {
+    "id": 169,
+    "name": "Ebemon",
+    "moves": [
+      "122",
+      "36",
+      "137",
+      "38",
+      "92"
+    ],
+    "neighBours": {
+      "prev": [
+        "169",
+        "112",
+        "144",
+        "155",
+        "292"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=169",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot451.png"
+  },
+  "170": {
+    "id": 170,
+    "name": "Imperialdramon DM",
+    "moves": [
+      "83",
+      "111",
+      "9",
+      "56",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "170",
+        "138",
+        "171",
+        "293"
+      ],
+      "next": [
+        "233",
+        "171"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=170",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot732.png"
+  },
+  "171": {
+    "id": 171,
+    "name": "Imperialdramon FM",
+    "moves": [
+      "83",
+      "111",
+      "9",
+      "56",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "171",
+        "170"
+      ],
+      "next": [
+        "170"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=171",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot419.png"
+  },
+  "172": {
+    "id": 172,
+    "name": "Vikemon",
+    "moves": [
+      "13",
+      "94",
+      "115",
+      "26",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "172",
+        "124",
+        "129",
+        "134",
+        "287"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=172",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot346.png"
+  },
+  "173": {
+    "id": 173,
+    "name": "VenomMyotismon",
+    "moves": [
+      "73",
+      "80",
+      "90",
+      "124",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "173",
+        "113",
+        "114",
+        "166",
+        "298",
+        "300"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=173",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot600.png"
+  },
+  "174": {
+    "id": 174,
+    "name": "WarGreymon",
+    "moves": [
+      "8",
+      "3",
+      "111",
+      "83",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "174",
+        "148",
+        "152",
+        "153"
+      ],
+      "next": [
+        "234"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=174",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot027.png"
+  },
+  "175": {
+    "id": 175,
+    "name": "Examon",
+    "moves": [
+      "53",
+      "58",
+      "8",
+      "122",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "175",
+        "309",
+        "315"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=175",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot215.png"
+  },
+  "176": {
+    "id": 176,
+    "name": "Ophanimon",
+    "moves": [
+      "68",
+      "100",
+      "98",
+      "66",
+      "69"
+    ],
+    "neighBours": {
+      "prev": [
+        "176",
+        "117",
+        "141"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=176",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot421.png"
+  },
+  "177": {
+    "id": 177,
+    "name": "Gaiomon",
+    "moves": [
+      "80",
+      "3",
+      "124",
+      "8",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "177",
+        "152",
+        "153",
+        "158",
+        "339"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=177",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot744.png"
+  },
+  "178": {
+    "id": 178,
+    "name": "ChaosGallantmon",
+    "moves": [
+      "73",
+      "126",
+      "80",
+      "16",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "178",
+        "124",
+        "151"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=178",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot150.png"
+  },
+  "179": {
+    "id": 179,
+    "name": "Gankoomon",
+    "moves": [
+      "3",
+      "129",
+      "111",
+      "8",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "179",
+        "127",
+        "133",
+        "299"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=179",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot688.png"
+  },
+  "180": {
+    "id": 180,
+    "name": "Kuzuhamon",
+    "moves": [
+      "76",
+      "78",
+      "132",
+      "137",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "180",
+        "125",
+        "130",
+        "157"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=180",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot754.png"
+  },
+  "181": {
+    "id": 181,
+    "name": "GranKuwagamon",
+    "moves": [
+      "90",
+      "23",
+      "58",
+      "122",
+      "117"
+    ],
+    "neighBours": {
+      "prev": [
+        "181",
+        "109",
+        "118",
+        "125",
+        "293",
+        "295"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=181",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot423.png"
+  },
+  "182": {
+    "id": 182,
+    "name": "GroundLocomon",
+    "moves": [
+      "36",
+      "106",
+      "113",
+      "38",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "182",
+        "120",
+        "121",
+        "137"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=182",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot704.png"
+  },
+  "183": {
+    "id": 183,
+    "name": "Craniamon",
+    "moves": [
+      "46",
+      "48",
+      "113",
+      "26",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "183",
+        "111",
+        "136"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=183",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot734.png"
+  },
+  "184": {
+    "id": 184,
+    "name": "Kerpymon (Good)",
+    "moves": [
+      "66",
+      "97",
+      "68",
+      "69",
+      "133"
+    ],
+    "neighBours": {
+      "prev": [
+        "184",
+        "110",
+        "124",
+        "289"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=184",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot735.png"
+  },
+  "185": {
+    "id": 185,
+    "name": "SaberLeomon",
+    "moves": [
+      "53",
+      "129",
+      "58",
+      "124",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "185",
+        "122",
+        "139",
+        "156",
+        "295"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=185",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot424.png"
+  },
+  "186": {
+    "id": 186,
+    "name": "Sakuyamon",
+    "moves": [
+      "108",
+      "68",
+      "95",
+      "66",
+      "132"
+    ],
+    "neighBours": {
+      "prev": [
+        "186",
+        "126",
+        "130",
+        "156"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=186",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot425.png"
+  },
+  "187": {
+    "id": 187,
+    "name": "Jesmon",
+    "moves": [
+      "113",
+      "99",
+      "111",
+      "89",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "187",
+        "291",
+        "294"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=187",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot749.png"
+  },
+  "188": {
+    "id": 188,
+    "name": "ShineGreymon",
+    "moves": [
+      "63",
+      "96",
+      "48",
+      "135",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "188",
+        "128",
+        "146",
+        "158"
+      ],
+      "next": [
+        "246"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=188",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot094.png"
+  },
+  "189": {
+    "id": 189,
+    "name": "Justimon",
+    "moves": [
+      "63",
+      "129",
+      "130",
+      "99",
+      "135"
+    ],
+    "neighBours": {
+      "prev": [
+        "189",
+        "119",
+        "123",
+        "127",
+        "286",
+        "296"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=189",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot737.png"
+  },
+  "190": {
+    "id": 190,
+    "name": "Kentaurosmon",
+    "moves": [
+      "68",
+      "63",
+      "69",
+      "108",
+      "95"
+    ],
+    "neighBours": {
+      "prev": [
+        "190",
+        "131",
+        "135",
+        "289"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=190",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot086.png"
+  },
+  "191": {
+    "id": 191,
+    "name": "Seraphimon",
+    "moves": [
+      "66",
+      "68",
+      "95",
+      "69",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "191",
+        "131",
+        "146",
+        "297"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=191",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot315.png"
+  },
+  "192": {
+    "id": 192,
+    "name": "MegaGargomon",
+    "moves": [
+      "36",
+      "115",
+      "38",
+      "26",
+      "135"
+    ],
+    "neighBours": {
+      "prev": [
+        "192",
+        "121",
+        "147",
+        "160"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=192",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot741.png"
+  },
+  "193": {
+    "id": 193,
+    "name": "TigerVespamon",
+    "moves": [
+      "33",
+      "117",
+      "23",
+      "131",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "193",
+        "111",
+        "121",
+        "160",
+        "288",
+        "294"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=193",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot745.png"
+  },
+  "194": {
+    "id": 194,
+    "name": "Titamon",
+    "moves": [
+      "48",
+      "43",
+      "124",
+      "23",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "194",
+        "123",
+        "128",
+        "132",
+        "298"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=194",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot440.png"
+  },
+  "195": {
+    "id": 195,
+    "name": "Dianamon",
+    "moves": [
+      "109",
+      "131",
+      "76",
+      "108",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "195",
+        "110",
+        "112",
+        "130",
+        "289"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=195",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot733.png"
+  },
+  "196": {
+    "id": 196,
+    "name": "Diaboromon",
+    "moves": [
+      "73",
+      "80",
+      "88",
+      "124",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "196",
+        "110",
+        "113",
+        "118",
+        "282",
+        "290"
+      ],
+      "next": [
+        "320"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=196",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot632.png"
+  },
+  "197": {
+    "id": 197,
+    "name": "Creepymon",
+    "moves": [
+      "76",
+      "38",
+      "126",
+      "6",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "197",
+        "128",
+        "143",
+        "282",
+        "290"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=197",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot038.png"
+  },
+  "198": {
+    "id": 198,
+    "name": "Gallantmon",
+    "moves": [
+      "63",
+      "94",
+      "113",
+      "6",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "198",
+        "151",
+        "154"
+      ],
+      "next": [
+        "325"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=198",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot126.png"
+  },
+  "199": {
+    "id": 199,
+    "name": "Dynasmon",
+    "moves": [
+      "53",
+      "58",
+      "8",
+      "122",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "199",
+        "115",
+        "126",
+        "283"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=199",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot738.png"
+  },
+  "200": {
+    "id": 200,
+    "name": "Leopardmon",
+    "moves": [
+      "63",
+      "128",
+      "69",
+      "49",
+      "70"
+    ],
+    "neighBours": {
+      "prev": [
+        "200",
+        "122",
+        "136",
+        "201"
+      ],
+      "next": [
+        "201"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=200",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot739.png"
+  },
+  "201": {
+    "id": 201,
+    "name": "Leopardmon LM",
+    "moves": [
+      "63",
+      "128",
+      "69",
+      "49",
+      "70"
+    ],
+    "neighBours": {
+      "prev": [
+        "201",
+        "200"
+      ],
+      "next": [
+        "200"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=201",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot743.png"
+  },
+  "202": {
+    "id": 202,
+    "name": "HiAndromon",
+    "moves": [
+      "38",
+      "86",
+      "36",
+      "113",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "202",
+        "111",
+        "144",
+        "155"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=202",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot426.png"
+  },
+  "203": {
+    "id": 203,
+    "name": "Barbamon",
+    "moves": [
+      "76",
+      "78",
+      "6",
+      "91",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "203",
+        "114",
+        "143",
+        "298"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=203",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot036.png"
+  },
+  "204": {
+    "id": 204,
+    "name": "BanchoLeomon",
+    "moves": [
+      "48",
+      "129",
+      "43",
+      "111",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "204",
+        "122",
+        "139",
+        "147",
+        "165",
+        "296"
+      ],
+      "next": [
+        "244",
+        "323"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=204",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot049.png"
+  },
+  "205": {
+    "id": 205,
+    "name": "Piedmon",
+    "moves": [
+      "80",
+      "78",
+      "76",
+      "60",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "205",
+        "114",
+        "116",
+        "166",
+        "300"
+      ],
+      "next": [
+        "341"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=205",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot427.png"
+  },
+  "206": {
+    "id": 206,
+    "name": "Puppetmon",
+    "moves": [
+      "23",
+      "46",
+      "126",
+      "28",
+      "29"
+    ],
+    "neighBours": {
+      "prev": [
+        "206",
+        "125",
+        "140",
+        "148",
+        "286"
+      ],
+      "next": [
+        "341"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=206",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot428.png"
+  },
+  "207": {
+    "id": 207,
+    "name": "PlatinumNumemon",
+    "moves": [
+      "138",
+      "122",
+      "124",
+      "126",
+      "128"
+    ],
+    "neighBours": {
+      "prev": [
+        "207",
+        "80",
+        "116",
+        "127",
+        "142"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=207",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot069.png"
+  },
+  "208": {
+    "id": 208,
+    "name": "BlackWarGreymon",
+    "moves": [
+      "8",
+      "3",
+      "113",
+      "88",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "208",
+        "150",
+        "153",
+        "154"
+      ],
+      "next": [
+        "235"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=208",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot175.png"
+  },
+  "209": {
+    "id": 209,
+    "name": "PrinceMamemon",
+    "moves": [
+      "136",
+      "138",
+      "86",
+      "115",
+      "95"
+    ],
+    "neighBours": {
+      "prev": [
+        "209",
+        "142",
+        "148",
+        "155",
+        "286"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=209",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot429.png"
+  },
+  "210": {
+    "id": 210,
+    "name": "Plesiomon",
+    "moves": [
+      "18",
+      "97",
+      "16",
+      "132",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "210",
+        "134",
+        "145",
+        "149",
+        "129"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=210",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot450.png"
+  },
+  "211": {
+    "id": 211,
+    "name": "HerculesKabuterimon",
+    "moves": [
+      "26",
+      "38",
+      "28",
+      "115",
+      "29"
+    ],
+    "neighBours": {
+      "prev": [
+        "211",
+        "109",
+        "118",
+        "144"
+      ],
+      "next": [
+        "310"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=211",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot306.png"
+  },
+  "212": {
+    "id": 212,
+    "name": "Beelzemon",
+    "moves": [
+      "73",
+      "90",
+      "43",
+      "8",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "212",
+        "113",
+        "133"
+      ],
+      "next": [
+        "242"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=212",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot035.png"
+  },
+  "213": {
+    "id": 213,
+    "name": "Belphemon SM",
+    "moves": [
+      "73",
+      "136",
+      "46",
+      "126",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "213",
+        "132",
+        "166",
+        "236"
+      ],
+      "next": [
+        "236"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=213",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot439.png"
+  },
+  "214": {
+    "id": 214,
+    "name": "Hououmon",
+    "moves": [
+      "6",
+      "132",
+      "86",
+      "95",
+      "133"
+    ],
+    "neighBours": {
+      "prev": [
+        "214",
+        "119",
+        "126",
+        "141"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=214",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot310.png"
+  },
+  "215": {
+    "id": 215,
+    "name": "Magnadramon",
+    "moves": [
+      "68",
+      "66",
+      "100",
+      "97",
+      "69"
+    ],
+    "neighBours": {
+      "prev": [
+        "215",
+        "109",
+        "117",
+        "161"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=215",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot453.png"
+  },
+  "216": {
+    "id": 216,
+    "name": "Boltmon",
+    "moves": [
+      "33",
+      "130",
+      "117",
+      "122",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "216",
+        "133",
+        "140",
+        "143"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=216",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot431.png"
+  },
+  "217": {
+    "id": 217,
+    "name": "Mastemon",
+    "moves": [
+      "69",
+      "79",
+      "98",
+      "135",
+      "133"
+    ],
+    "neighBours": {
+      "prev": [
+        "217",
+        "117",
+        "163"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=217",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot748.png"
+  },
+  "218": {
+    "id": 218,
+    "name": "MarineAngemon",
+    "moves": [
+      "16",
+      "18",
+      "109",
+      "98",
+      "133"
+    ],
+    "neighBours": {
+      "prev": [
+        "218",
+        "129",
+        "141",
+        "145"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=218",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot024.png"
+  },
+  "219": {
+    "id": 219,
+    "name": "Minervamon",
+    "moves": [
+      "83",
+      "88",
+      "124",
+      "23",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "219",
+        "132",
+        "156",
+        "157",
+        "165",
+        "339"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=219",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot747.png"
+  },
+  "220": {
+    "id": 220,
+    "name": "MirageGaogamon",
+    "moves": [
+      "58",
+      "53",
+      "131",
+      "117",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "220",
+        "139",
+        "147",
+        "164"
+      ],
+      "next": [
+        "247"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=220",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot095.png"
+  },
+  "221": {
+    "id": 221,
+    "name": "Machinedramon",
+    "moves": [
+      "88",
+      "33",
+      "111",
+      "128",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "221",
+        "120",
+        "137",
+        "150"
+      ],
+      "next": [
+        "304",
+        "341"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=221",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot385.png"
+  },
+  "222": {
+    "id": 222,
+    "name": "MetalEtemon",
+    "moves": [
+      "138",
+      "126",
+      "48",
+      "137",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "222",
+        "112",
+        "116",
+        "142",
+        "299"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=222",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot312.png"
+  },
+  "223": {
+    "id": 223,
+    "name": "MetalGarurumon",
+    "moves": [
+      "13",
+      "96",
+      "117",
+      "56",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "223",
+        "129",
+        "131",
+        "164"
+      ],
+      "next": [
+        "234"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=223",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot135.png"
+  },
+  "224": {
+    "id": 224,
+    "name": "MetalGarurumon (Blk)",
+    "moves": [
+      "38",
+      "13",
+      "36",
+      "128",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "224",
+        "137",
+        "160",
+        "164",
+        "165"
+      ],
+      "next": [
+        "235"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=224",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot182.png"
+  },
+  "225": {
+    "id": 225,
+    "name": "MetalSeadramon",
+    "moves": [
+      "16",
+      "18",
+      "122",
+      "36",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "225",
+        "120",
+        "145",
+        "149"
+      ],
+      "next": [
+        "341"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=225",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot434.png"
+  },
+  "226": {
+    "id": 226,
+    "name": "RustTyranomon",
+    "moves": [
+      "88",
+      "33",
+      "113",
+      "128",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "226",
+        "151",
+        "152",
+        "154"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=226",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot383.png"
+  },
+  "227": {
+    "id": 227,
+    "name": "Leviamon",
+    "moves": [
+      "13",
+      "46",
+      "124",
+      "86",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "227",
+        "134",
+        "149",
+        "292"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=227",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot037.png"
+  },
+  "228": {
+    "id": 228,
+    "name": "Lilithmon",
+    "moves": [
+      "78",
+      "91",
+      "76",
+      "122",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "228",
+        "159",
+        "163"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=228",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot034.png"
+  },
+  "229": {
+    "id": 229,
+    "name": "Ravemon",
+    "moves": [
+      "56",
+      "96",
+      "58",
+      "117",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "229",
+        "115",
+        "119",
+        "157"
+      ],
+      "next": [
+        "248"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=229",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot740.png"
+  },
+  "230": {
+    "id": 230,
+    "name": "Crusadermon",
+    "moves": [
+      "73",
+      "78",
+      "128",
+      "26",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "230",
+        "136",
+        "146"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=230",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot703.png"
+  },
+  "231": {
+    "id": 231,
+    "name": "Rosemon",
+    "moves": [
+      "28",
+      "26",
+      "98",
+      "115",
+      "29"
+    ],
+    "neighBours": {
+      "prev": [
+        "231",
+        "140",
+        "159",
+        "161"
+      ],
+      "next": [
+        "249"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=231",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot057.png"
+  },
+  "232": {
+    "id": 232,
+    "name": "Lotosmon",
+    "moves": [
+      "28",
+      "26",
+      "97",
+      "70",
+      "29"
+    ],
+    "neighBours": {
+      "prev": [
+        "232",
+        "159",
+        "161",
+        "163"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=232",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot742.png"
+  },
+  "233": {
+    "id": 233,
+    "name": "Imperialdramon PM",
+    "moves": [
+      "66",
+      "115",
+      "63",
+      "108",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "233",
+        "170"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=233",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot420.png"
+  },
+  "234": {
+    "id": 234,
+    "name": "Omnimon",
+    "moves": [
+      "63",
+      "130",
+      "111",
+      "135",
+      "66"
+    ],
+    "neighBours": {
+      "prev": [
+        "234",
+        "174",
+        "223"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=234",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot088.png"
+  },
+  "235": {
+    "id": 235,
+    "name": "Omnimon Zwart",
+    "moves": [
+      "73",
+      "131",
+      "129",
+      "137",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "235",
+        "208",
+        "224"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=235",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot757.png"
+  },
+  "236": {
+    "id": 236,
+    "name": "Belphemon RM",
+    "moves": [
+      "73",
+      "136",
+      "46",
+      "126",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "236",
+        "213"
+      ],
+      "next": [
+        "213"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=236",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot040.png"
+  },
+  "237": {
+    "id": 237,
+    "name": "Lucemon SM",
+    "moves": [
+      "76",
+      "126",
+      "89",
+      "79",
+      "70"
+    ],
+    "neighBours": {
+      "prev": [
+        "237",
+        "162"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=237",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot435.png"
+  },
+  "238": {
+    "id": 238,
+    "name": "Flamedramon",
+    "moves": [
+      "129",
+      "130",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "238",
+        "46"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=238",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot716.png"
+  },
+  "239": {
+    "id": 239,
+    "name": "Magnamon",
+    "moves": [
+      "48",
+      "99",
+      "43",
+      "113",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "239",
+        "46",
+        "265"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=239",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot382.png"
+  },
+  "240": {
+    "id": 240,
+    "name": "Rapidmon (Armor)",
+    "moves": [
+      "63",
+      "68",
+      "109",
+      "117",
+      "69"
+    ],
+    "neighBours": {
+      "prev": [
+        "240",
+        "35",
+        "265"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=240",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot751.png"
+  },
+  "241": {
+    "id": 241,
+    "name": "Kerpymon (Blk)",
+    "moves": [
+      "76",
+      "91",
+      "78",
+      "79",
+      "132"
+    ],
+    "neighBours": {
+      "prev": [
+        "241",
+        "110",
+        "153"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=241",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot774.png"
+  },
+  "242": {
+    "id": 242,
+    "name": "Beelzemon BM",
+    "moves": [
+      "53",
+      "129",
+      "3",
+      "111",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "242",
+        "212"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=242",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot775.png"
+  },
+  "243": {
+    "id": 243,
+    "name": "Darkdramon",
+    "moves": [
+      "120",
+      "129",
+      "124",
+      "33",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "243",
+        "120",
+        "143",
+        "151"
+      ],
+      "next": [
+        "244"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=243",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot771.png"
+  },
+  "244": {
+    "id": 244,
+    "name": "Chaosmon",
+    "moves": [
+      "133",
+      "80",
+      "73",
+      "63",
+      "92"
+    ],
+    "neighBours": {
+      "prev": [
+        "244",
+        "204",
+        "243"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=244",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot772.png"
+  },
+  "245": {
+    "id": 245,
+    "name": "Valkyrimon",
+    "moves": [
+      "66",
+      "95",
+      "117",
+      "59",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "245",
+        "117",
+        "126",
+        "146",
+        "291"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=245",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot773.png"
+  },
+  "246": {
+    "id": 246,
+    "name": "ShineGreymon BM",
+    "moves": [
+      "110",
+      "122",
+      "83",
+      "129",
+      "132"
+    ],
+    "neighBours": {
+      "prev": [
+        "246",
+        "188"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=246",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot776.png"
+  },
+  "247": {
+    "id": 247,
+    "name": "MirageGaogamon BM",
+    "moves": [
+      "63",
+      "122",
+      "66",
+      "98",
+      "69"
+    ],
+    "neighBours": {
+      "prev": [
+        "247",
+        "220"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=247",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot777.png"
+  },
+  "248": {
+    "id": 248,
+    "name": "Ravemon BM",
+    "moves": [
+      "60",
+      "128",
+      "92",
+      "132",
+      "70"
+    ],
+    "neighBours": {
+      "prev": [
+        "248",
+        "229"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=248",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot778.png"
+  },
+  "249": {
+    "id": 249,
+    "name": "Rosemon BM",
+    "moves": [
+      "95",
+      "126",
+      "99",
+      "133",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "249",
+        "231"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=249",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot779.png"
+  },
+  "250": {
+    "id": 250,
+    "name": "Arcadiamon In-Tr.",
+    "moves": [
+      "90"
+    ],
+    "neighBours": {
+      "prev": [
+        "250",
+        "1"
+      ],
+      "next": [
+        "251"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=250",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot062.png"
+  },
+  "251": {
+    "id": 251,
+    "name": "Arcadiamon Rookie",
+    "moves": [
+      "129",
+      "71"
+    ],
+    "neighBours": {
+      "prev": [
+        "251",
+        "250"
+      ],
+      "next": [
+        "262",
+        "73",
+        "106"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=251",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot063.png"
+  },
+  "252": {
+    "id": 252,
+    "name": "Zubamon",
+    "moves": [
+      "81",
+      "110"
+    ],
+    "neighBours": {
+      "prev": [
+        "252",
+        "8"
+      ],
+      "next": [
+        "272",
+        "275",
+        "80",
+        "338"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=252",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot697.png"
+  },
+  "253": {
+    "id": 253,
+    "name": "Chuumon",
+    "moves": [
+      "81",
+      "138"
+    ],
+    "neighBours": {
+      "prev": [
+        "253",
+        "12"
+      ],
+      "next": [
+        "280",
+        "85",
+        "95",
+        "101"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=253",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot020.png"
+  },
+  "254": {
+    "id": 254,
+    "name": "Dracmon",
+    "moves": [
+      "71",
+      "80"
+    ],
+    "neighBours": {
+      "prev": [
+        "254",
+        "9"
+      ],
+      "next": [
+        "262",
+        "269",
+        "280",
+        "330",
+        "92"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=254",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot457.png"
+  },
+  "255": {
+    "id": 255,
+    "name": "Dracomon",
+    "moves": [
+      "1",
+      "81"
+    ],
+    "neighBours": {
+      "prev": [
+        "255",
+        "6"
+      ],
+      "next": [
+        "266",
+        "267",
+        "99",
+        "338"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=255",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot208.png"
+  },
+  "256": {
+    "id": 256,
+    "name": "FanBeemon",
+    "moves": [
+      "31",
+      "134"
+    ],
+    "neighBours": {
+      "prev": [
+        "256",
+        "7"
+      ],
+      "next": [
+        "265",
+        "279",
+        "87",
+        "108",
+        "93"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=256",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot042.png"
+  },
+  "257": {
+    "id": 257,
+    "name": "Mushroomon",
+    "moves": [
+      "30",
+      "21"
+    ],
+    "neighBours": {
+      "prev": [
+        "257",
+        "13"
+      ],
+      "next": [
+        "273",
+        "60",
+        "82",
+        "102"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=257",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot607.png"
+  },
+  "258": {
+    "id": 258,
+    "name": "Monodramon",
+    "moves": [
+      "81",
+      "110"
+    ],
+    "neighBours": {
+      "prev": [
+        "258",
+        "8"
+      ],
+      "next": [
+        "266",
+        "271",
+        "279",
+        "73",
+        "94"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=258",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot458.png"
+  },
+  "259": {
+    "id": 259,
+    "name": "Lunamon",
+    "moves": [
+      "93",
+      "20"
+    ],
+    "neighBours": {
+      "prev": [
+        "259",
+        "11"
+      ],
+      "next": [
+        "269",
+        "281",
+        "330",
+        "91"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=259",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot002.png"
+  },
+  "260": {
+    "id": 260,
+    "name": "Icemon",
+    "moves": [
+      "12",
+      "42",
+      "17"
+    ],
+    "neighBours": {
+      "prev": [
+        "260",
+        "30",
+        "32"
+      ],
+      "next": [
+        "112",
+        "139",
+        "129"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=260",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot758.png"
+  },
+  "261": {
+    "id": 261,
+    "name": "Agunimon",
+    "moves": [
+      "3",
+      "7",
+      "129"
+    ],
+    "neighBours": {
+      "prev": [
+        "261",
+        "17",
+        "27"
+      ],
+      "next": [
+        "284",
+        "300",
+        "133",
+        "158"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=261",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot676.png"
+  },
+  "262": {
+    "id": 262,
+    "name": "Arcadiamon Champion",
+    "moves": [
+      "72",
+      "82",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "262",
+        "251",
+        "29",
+        "254"
+      ],
+      "next": [
+        "282",
+        "290",
+        "113"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=262",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot064.png"
+  },
+  "263": {
+    "id": 263,
+    "name": "Lobomon",
+    "moves": [
+      "116",
+      "62",
+      "82"
+    ],
+    "neighBours": {
+      "prev": [
+        "263",
+        "25",
+        "28",
+        "46"
+      ],
+      "next": [
+        "285",
+        "136",
+        "164"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=263",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot680.png"
+  },
+  "264": {
+    "id": 264,
+    "name": "Airdramon",
+    "moves": [
+      "55",
+      "57",
+      "2"
+    ],
+    "neighBours": {
+      "prev": [
+        "264",
+        "44",
+        "49",
+        "48"
+      ],
+      "next": [
+        "283",
+        "149",
+        "150",
+        "152"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=264",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot011.png"
+  },
+  "265": {
+    "id": 265,
+    "name": "Guardromon (Gold)",
+    "moves": [
+      "35",
+      "114",
+      "37"
+    ],
+    "neighBours": {
+      "prev": [
+        "265",
+        "37",
+        "34",
+        "256"
+      ],
+      "next": [
+        "288",
+        "294",
+        "111",
+        "240",
+        "239"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=265",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot760.png"
+  },
+  "266": {
+    "id": 266,
+    "name": "Coredramon (Blue)",
+    "moves": [
+      "110",
+      "52",
+      "57"
+    ],
+    "neighBours": {
+      "prev": [
+        "266",
+        "255",
+        "258"
+      ],
+      "next": [
+        "283",
+        "115",
+        "143"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=266",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot218.png"
+  },
+  "267": {
+    "id": 267,
+    "name": "Coredramon (Green)",
+    "moves": [
+      "42",
+      "50",
+      "120"
+    ],
+    "neighBours": {
+      "prev": [
+        "267",
+        "31",
+        "255"
+      ],
+      "next": [
+        "287",
+        "295",
+        "151"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=267",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot209.png"
+  },
+  "268": {
+    "id": 268,
+    "name": "Golemon",
+    "moves": [
+      "47",
+      "42",
+      "7"
+    ],
+    "neighBours": {
+      "prev": [
+        "268",
+        "19",
+        "30",
+        "34"
+      ],
+      "next": [
+        "299",
+        "112",
+        "140"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=268",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot005.png"
+  },
+  "269": {
+    "id": 269,
+    "name": "Sangloupmon",
+    "moves": [
+      "72",
+      "75",
+      "90"
+    ],
+    "neighBours": {
+      "prev": [
+        "269",
+        "23",
+        "254",
+        "259"
+      ],
+      "next": [
+        "285",
+        "300",
+        "114",
+        "165"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=269",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot030.png"
+  },
+  "270": {
+    "id": 270,
+    "name": "Coelamon",
+    "moves": [
+      "12",
+      "136",
+      "82"
+    ],
+    "neighBours": {
+      "prev": [
+        "270",
+        "22",
+        "33"
+      ],
+      "next": [
+        "292",
+        "111",
+        "149",
+        "339"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=270",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot130.png"
+  },
+  "271": {
+    "id": 271,
+    "name": "Strikedramon",
+    "moves": [
+      "7",
+      "123",
+      "88"
+    ],
+    "neighBours": {
+      "prev": [
+        "271",
+        "32",
+        "46",
+        "258"
+      ],
+      "next": [
+        "291",
+        "123",
+        "164"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=271",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot016.png"
+  },
+  "272": {
+    "id": 272,
+    "name": "Zubaeagermon",
+    "moves": [
+      "87",
+      "82",
+      "120"
+    ],
+    "neighBours": {
+      "prev": [
+        "272",
+        "41",
+        "252"
+      ],
+      "next": [
+        "285",
+        "294",
+        "298"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=272",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot698.png"
+  },
+  "273": {
+    "id": 273,
+    "name": "MudFrigimon",
+    "moves": [
+      "42",
+      "96",
+      "47"
+    ],
+    "neighBours": {
+      "prev": [
+        "273",
+        "42",
+        "257",
+        "53"
+      ],
+      "next": [
+        "296",
+        "112",
+        "140"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=273",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot759.png"
+  },
+  "274": {
+    "id": 274,
+    "name": "Turuiemon",
+    "moves": [
+      "42",
+      "120",
+      "87"
+    ],
+    "neighBours": {
+      "prev": [
+        "274",
+        "52",
+        "53"
+      ],
+      "next": [
+        "110",
+        "123",
+        "156"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=274",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot102.png"
+  },
+  "275": {
+    "id": 275,
+    "name": "BaoHuckmon",
+    "moves": [
+      "110",
+      "82",
+      "8"
+    ],
+    "neighBours": {
+      "prev": [
+        "275",
+        "41",
+        "252",
+        "47"
+      ],
+      "next": [
+        "285",
+        "291",
+        "158"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=275",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot115.png"
+  },
+  "276": {
+    "id": 276,
+    "name": "Hudiemon",
+    "moves": [
+      "25",
+      "27",
+      "96"
+    ],
+    "neighBours": {
+      "prev": [
+        "276",
+        "54"
+      ],
+      "next": [
+        "161",
+        "121",
+        "159"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=276",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot022.png"
+  },
+  "277": {
+    "id": 277,
+    "name": "Monochromon",
+    "moves": [
+      "42",
+      "129",
+      "47"
+    ],
+    "neighBours": {
+      "prev": [
+        "277",
+        "18",
+        "41"
+      ],
+      "next": [
+        "295",
+        "128",
+        "154"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=277",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot369.png"
+  },
+  "278": {
+    "id": 278,
+    "name": "Unimon",
+    "moves": [
+      "55",
+      "116",
+      "65"
+    ],
+    "neighBours": {
+      "prev": [
+        "278",
+        "35",
+        "40"
+      ],
+      "next": [
+        "297",
+        "141",
+        "146"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=278",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot548.png"
+  },
+  "279": {
+    "id": 279,
+    "name": "Raptordramon",
+    "moves": [
+      "82",
+      "42",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "279",
+        "38",
+        "256",
+        "258",
+        "337"
+      ],
+      "next": [
+        "288",
+        "294",
+        "120",
+        "135"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=279",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot025.png"
+  },
+  "280": {
+    "id": 280,
+    "name": "Raremon",
+    "moves": [
+      "30",
+      "87",
+      "92"
+    ],
+    "neighBours": {
+      "prev": [
+        "280",
+        "22",
+        "26",
+        "253",
+        "254"
+      ],
+      "next": [
+        "290",
+        "292",
+        "298",
+        "142",
+        "153"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=280",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot590.png"
+  },
+  "281": {
+    "id": 281,
+    "name": "Lekismon",
+    "moves": [
+      "12",
+      "85",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "281",
+        "52",
+        "259",
+        "328"
+      ],
+      "next": [
+        "289",
+        "110",
+        "147"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=281",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot003.png"
+  },
+  "282": {
+    "id": 282,
+    "name": "Arcadiamon Ultimate",
+    "moves": [
+      "80",
+      "121",
+      "52",
+      "62"
+    ],
+    "neighBours": {
+      "prev": [
+        "282",
+        "55",
+        "262",
+        "73"
+      ],
+      "next": [
+        "301",
+        "196",
+        "197"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=282",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot065.png"
+  },
+  "283": {
+    "id": 283,
+    "name": "Wingdramon",
+    "moves": [
+      "127",
+      "88",
+      "52",
+      "58"
+    ],
+    "neighBours": {
+      "prev": [
+        "283",
+        "264",
+        "61",
+        "266"
+      ],
+      "next": [
+        "309",
+        "168",
+        "199"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=283",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot210.png"
+  },
+  "284": {
+    "id": 284,
+    "name": "BurningGreymon",
+    "moves": [
+      "129",
+      "3",
+      "48",
+      "8"
+    ],
+    "neighBours": {
+      "prev": [
+        "284",
+        "261",
+        "72",
+        "97",
+        "104"
+      ],
+      "next": [
+        "303"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=284",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot679.png"
+  },
+  "285": {
+    "id": 285,
+    "name": "KendoGarurumon",
+    "moves": [
+      "52",
+      "57",
+      "63",
+      "117"
+    ],
+    "neighBours": {
+      "prev": [
+        "285",
+        "263",
+        "269",
+        "272",
+        "275"
+      ],
+      "next": [
+        "316"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=285",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot681.png"
+  },
+  "286": {
+    "id": 286,
+    "name": "CatchMamemon",
+    "moves": [
+      "50",
+      "7",
+      "40",
+      "33"
+    ],
+    "neighBours": {
+      "prev": [
+        "286",
+        "64",
+        "86",
+        "100"
+      ],
+      "next": [
+        "189",
+        "206",
+        "209"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=286",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot044.png"
+  },
+  "287": {
+    "id": 287,
+    "name": "Groundramon",
+    "moves": [
+      "47",
+      "130",
+      "43",
+      "48"
+    ],
+    "neighBours": {
+      "prev": [
+        "287",
+        "57",
+        "267",
+        "84"
+      ],
+      "next": [
+        "315",
+        "318",
+        "172"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=287",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot211.png"
+  },
+  "288": {
+    "id": 288,
+    "name": "Grademon",
+    "moves": [
+      "107",
+      "63",
+      "67",
+      "83"
+    ],
+    "neighBours": {
+      "prev": [
+        "288",
+        "265",
+        "94",
+        "279",
+        "106"
+      ],
+      "next": [
+        "311",
+        "312",
+        "167",
+        "193",
+        "340"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=288",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot026.png"
+  },
+  "289": {
+    "id": 289,
+    "name": "Crescemon",
+    "moves": [
+      "17",
+      "15",
+      "67",
+      "13"
+    ],
+    "neighBours": {
+      "prev": [
+        "289",
+        "86",
+        "105",
+        "281"
+      ],
+      "next": [
+        "184",
+        "190",
+        "195"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=289",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot004.png"
+  },
+  "290": {
+    "id": 290,
+    "name": "SkullSatamon",
+    "moves": [
+      "92",
+      "77",
+      "73",
+      "76"
+    ],
+    "neighBours": {
+      "prev": [
+        "290",
+        "262",
+        "63",
+        "92",
+        "280"
+      ],
+      "next": [
+        "306",
+        "196",
+        "197"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=290",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot006.png"
+  },
+  "291": {
+    "id": 291,
+    "name": "SaviorHuckmon",
+    "moves": [
+      "7",
+      "70",
+      "63",
+      "99"
+    ],
+    "neighBours": {
+      "prev": [
+        "291",
+        "62",
+        "271",
+        "275"
+      ],
+      "next": [
+        "309",
+        "245",
+        "187"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=291",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot116.png"
+  },
+  "292": {
+    "id": 292,
+    "name": "Dragomon",
+    "moves": [
+      "10",
+      "18",
+      "15",
+      "78"
+    ],
+    "neighBours": {
+      "prev": [
+        "292",
+        "55",
+        "270",
+        "280"
+      ],
+      "next": [
+        "313",
+        "169",
+        "227"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=292",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot129.png"
+  },
+  "293": {
+    "id": 293,
+    "name": "Dinobeemon",
+    "moves": [
+      "22",
+      "37",
+      "53",
+      "130"
+    ],
+    "neighBours": {
+      "prev": [
+        "293",
+        "61",
+        "87"
+      ],
+      "next": [
+        "170",
+        "181"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=293",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot023.png"
+  },
+  "294": {
+    "id": 294,
+    "name": "Duramon",
+    "moves": [
+      "119",
+      "62",
+      "83",
+      "88"
+    ],
+    "neighBours": {
+      "prev": [
+        "294",
+        "265",
+        "272",
+        "279"
+      ],
+      "next": [
+        "311",
+        "193",
+        "187"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=294",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot699.png"
+  },
+  "295": {
+    "id": 295,
+    "name": "Triceramon",
+    "moves": [
+      "47",
+      "118",
+      "2",
+      "43"
+    ],
+    "neighBours": {
+      "prev": [
+        "295",
+        "58",
+        "75",
+        "267",
+        "277"
+      ],
+      "next": [
+        "315",
+        "181",
+        "185"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=295",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot033.png"
+  },
+  "296": {
+    "id": 296,
+    "name": "Pandamon",
+    "moves": [
+      "87",
+      "93",
+      "83",
+      "43"
+    ],
+    "neighBours": {
+      "prev": [
+        "296",
+        "70",
+        "273",
+        "91",
+        "330"
+      ],
+      "next": [
+        "305",
+        "189",
+        "204"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=296",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot041.png"
+  },
+  "297": {
+    "id": 297,
+    "name": "HippoGryphonmon",
+    "moves": [
+      "55",
+      "67",
+      "116",
+      "56"
+    ],
+    "neighBours": {
+      "prev": [
+        "297",
+        "56",
+        "62",
+        "97",
+        "278"
+      ],
+      "next": [
+        "302",
+        "307",
+        "191"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=297",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot082.png"
+  },
+  "298": {
+    "id": 298,
+    "name": "Phantomon",
+    "moves": [
+      "77",
+      "80",
+      "76",
+      "78"
+    ],
+    "neighBours": {
+      "prev": [
+        "298",
+        "59",
+        "272",
+        "98",
+        "280"
+      ],
+      "next": [
+        "173",
+        "194",
+        "203"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=298",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot584.png"
+  },
+  "299": {
+    "id": 299,
+    "name": "Volcanomon",
+    "moves": [
+      "134",
+      "87",
+      "47",
+      "3"
+    ],
+    "neighBours": {
+      "prev": [
+        "299",
+        "268",
+        "89",
+        "104"
+      ],
+      "next": [
+        "314",
+        "179",
+        "222"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=299",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot059.png"
+  },
+  "300": {
+    "id": 300,
+    "name": "Matadormon",
+    "moves": [
+      "77",
+      "130",
+      "88",
+      "73"
+    ],
+    "neighBours": {
+      "prev": [
+        "300",
+        "269",
+        "98",
+        "261"
+      ],
+      "next": [
+        "306",
+        "173",
+        "205"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=300",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot031.png"
+  },
+  "301": {
+    "id": 301,
+    "name": "Arcadiamon Mega",
+    "moves": [
+      "73",
+      "128",
+      "63",
+      "89",
+      "137"
+    ],
+    "neighBours": {
+      "prev": [
+        "301",
+        "282",
+        "113",
+        "114"
+      ],
+      "next": [
+        "321"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=301",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot066.png"
+  },
+  "302": {
+    "id": 302,
+    "name": "Varodurumon",
+    "moves": [
+      "66",
+      "133",
+      "98",
+      "69",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "302",
+        "119",
+        "297",
+        "157"
+      ],
+      "next": [
+        "323"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=302",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot117.png"
+  },
+  "303": {
+    "id": 303,
+    "name": "KaiserGreymon",
+    "moves": [
+      "3",
+      "53",
+      "50",
+      "48",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "303",
+        "284"
+      ],
+      "next": [
+        "324"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=303",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot677.png"
+  },
+  "304": {
+    "id": 304,
+    "name": "Chaosdramon",
+    "moves": [
+      "88",
+      "129",
+      "33",
+      "38",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "304",
+        "221"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=304",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot422.png"
+  },
+  "305": {
+    "id": 305,
+    "name": "KingEtemon",
+    "moves": [
+      "48",
+      "111",
+      "137",
+      "43",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "305",
+        "116",
+        "134",
+        "296"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=305",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot127.png"
+  },
+  "306": {
+    "id": 306,
+    "name": "GranDracmon",
+    "moves": [
+      "76",
+      "10",
+      "13",
+      "126",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "306",
+        "114",
+        "290",
+        "300"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=306",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot032.png"
+  },
+  "307": {
+    "id": 307,
+    "name": "Gryphonmon",
+    "moves": [
+      "53",
+      "68",
+      "117",
+      "59",
+      "99"
+    ],
+    "neighBours": {
+      "prev": [
+        "307",
+        "119",
+        "126",
+        "297"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=307",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot083.png"
+  },
+  "308": {
+    "id": 308,
+    "name": "Goldramon",
+    "moves": [
+      "63",
+      "3",
+      "97",
+      "70",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "308",
+        "115",
+        "146",
+        "150",
+        "339"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=308",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot048.png"
+  },
+  "309": {
+    "id": 309,
+    "name": "Slayerdramon",
+    "moves": [
+      "83",
+      "111",
+      "117",
+      "97",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "309",
+        "283",
+        "291",
+        "158"
+      ],
+      "next": [
+        "175"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=309",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot213.png"
+  },
+  "310": {
+    "id": 310,
+    "name": "TyrantKabuterimon",
+    "moves": [
+      "23",
+      "38",
+      "8",
+      "128",
+      "117"
+    ],
+    "neighBours": {
+      "prev": [
+        "310",
+        "211"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=310",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot128.png"
+  },
+  "311": {
+    "id": 311,
+    "name": "Durandamon",
+    "moves": [
+      "83",
+      "70",
+      "130",
+      "111",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "311",
+        "288",
+        "294",
+        "136"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=311",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot700.png"
+  },
+  "312": {
+    "id": 312,
+    "name": "Dorugoramon",
+    "moves": [
+      "3",
+      "129",
+      "43",
+      "111",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "312",
+        "120",
+        "288",
+        "135"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=312",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot019.png"
+  },
+  "313": {
+    "id": 313,
+    "name": "Neptunemon",
+    "moves": [
+      "13",
+      "20",
+      "131",
+      "19",
+      "16"
+    ],
+    "neighBours": {
+      "prev": [
+        "313",
+        "292",
+        "145",
+        "149"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=313",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot075.png"
+  },
+  "314": {
+    "id": 314,
+    "name": "PileVolcamon",
+    "moves": [
+      "88",
+      "3",
+      "130",
+      "8",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "314",
+        "116",
+        "122",
+        "299"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=314",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot060.png"
+  },
+  "315": {
+    "id": 315,
+    "name": "Breakdramon",
+    "moves": [
+      "38",
+      "124",
+      "33",
+      "39",
+      "49"
+    ],
+    "neighBours": {
+      "prev": [
+        "315",
+        "287",
+        "295",
+        "154"
+      ],
+      "next": [
+        "175"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=315",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot214.png"
+  },
+  "316": {
+    "id": 316,
+    "name": "MagnaGarurumon",
+    "moves": [
+      "63",
+      "72",
+      "96",
+      "135",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "316",
+        "285",
+        "317"
+      ],
+      "next": [
+        "317",
+        "324"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=316",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot678.png"
+  },
+  "317": {
+    "id": 317,
+    "name": "MagnaGarurumon (SV)",
+    "moves": [
+      "63",
+      "72",
+      "96",
+      "135",
+      "39"
+    ],
+    "neighBours": {
+      "prev": [
+        "317",
+        "316"
+      ],
+      "next": [
+        "316"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=317",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot675.png"
+  },
+  "318": {
+    "id": 318,
+    "name": "Megidramon",
+    "moves": [
+      "8",
+      "3",
+      "72",
+      "137",
+      "9"
+    ],
+    "neighBours": {
+      "prev": [
+        "318",
+        "287",
+        "150",
+        "151",
+        "120"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=318",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot047.png"
+  },
+  "319": {
+    "id": 319,
+    "name": "Merukimon",
+    "moves": [
+      "48",
+      "53",
+      "99",
+      "56",
+      "59"
+    ],
+    "neighBours": {
+      "prev": [
+        "319",
+        "147",
+        "165"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=319",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot080.png"
+  },
+  "320": {
+    "id": 320,
+    "name": "Armageddemon",
+    "moves": [
+      "79",
+      "30",
+      "89",
+      "3",
+      "126"
+    ],
+    "neighBours": {
+      "prev": [
+        "320",
+        "196"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=320",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot106.png"
+  },
+  "321": {
+    "id": 321,
+    "name": "Arcadiamon Ultra",
+    "moves": [
+      "83",
+      "92",
+      "126",
+      "124",
+      "79"
+    ],
+    "neighBours": {
+      "prev": [
+        "321",
+        "301"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=321",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot067.png"
+  },
+  "322": {
+    "id": 322,
+    "name": "Alphamon Ouryuken",
+    "moves": [
+      "83",
+      "98",
+      "135",
+      "63",
+      "73"
+    ],
+    "neighBours": {
+      "prev": [
+        "322",
+        "167",
+        "340"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=322",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot766.png"
+  },
+  "323": {
+    "id": 323,
+    "name": "Chaosmon VA",
+    "moves": [
+      "133",
+      "70",
+      "66",
+      "63",
+      "92"
+    ],
+    "neighBours": {
+      "prev": [
+        "323",
+        "302",
+        "204"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=323",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot118.png"
+  },
+  "324": {
+    "id": 324,
+    "name": "Susanomon",
+    "moves": [
+      "63",
+      "69",
+      "109",
+      "135",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "324",
+        "303",
+        "316"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=324",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot104.png"
+  },
+  "325": {
+    "id": 325,
+    "name": "Gallantmon CM",
+    "moves": [
+      "69",
+      "89",
+      "109",
+      "108",
+      "95"
+    ],
+    "neighBours": {
+      "prev": [
+        "325",
+        "198"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=325",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot105.png"
+  },
+  "326": {
+    "id": 326,
+    "name": "Shoutmon",
+    "moves": [
+      "81",
+      "50"
+    ],
+    "neighBours": {
+      "prev": [
+        "326",
+        "6"
+      ],
+      "next": [
+        "327"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=326",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot682.png"
+  },
+  "327": {
+    "id": 327,
+    "name": "OmniShoutmon",
+    "moves": [
+      "129",
+      "130",
+      "117",
+      "9",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "327",
+        "326"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=327",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot683.png"
+  },
+  "328": {
+    "id": 328,
+    "name": "Sistermon Blanc",
+    "moves": [
+      "93",
+      "64"
+    ],
+    "neighBours": {
+      "prev": [
+        "328",
+        "10"
+      ],
+      "next": [
+        "329",
+        "330",
+        "68",
+        "281"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=328",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot781.png"
+  },
+  "329": {
+    "id": 329,
+    "name": "Sistermon B (Awake.)",
+    "moves": [
+      "66",
+      "99",
+      "69",
+      "133",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "329",
+        "328"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=329",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot782.png"
+  },
+  "330": {
+    "id": 330,
+    "name": "Sistermon Ciel",
+    "moves": [
+      "71",
+      "77"
+    ],
+    "neighBours": {
+      "prev": [
+        "330",
+        "328",
+        "254",
+        "259"
+      ],
+      "next": [
+        "331",
+        "296",
+        "163"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=330",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot783.png"
+  },
+  "331": {
+    "id": 331,
+    "name": "Sistermon C (Awake.)",
+    "moves": [
+      "111",
+      "73",
+      "129",
+      "70",
+      "98"
+    ],
+    "neighBours": {
+      "prev": [
+        "331",
+        "330"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=331",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot784.png"
+  },
+  "332": {
+    "id": 332,
+    "name": "Alphamon NX",
+    "moves": [
+      "92",
+      "124",
+      "122",
+      "69",
+      "135"
+    ],
+    "neighBours": {
+      "prev": [
+        "332"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=332",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot901.png"
+  },
+  "333": {
+    "id": 333,
+    "name": "Crusadermon NX",
+    "moves": [
+      "129",
+      "9",
+      "49",
+      "39",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "333"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=333",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot902.png"
+  },
+  "334": {
+    "id": 334,
+    "name": "Leopardmon NX",
+    "moves": [
+      "79",
+      "111",
+      "115",
+      "95",
+      "19"
+    ],
+    "neighBours": {
+      "prev": [
+        "334"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=334",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot903.png"
+  },
+  "335": {
+    "id": 335,
+    "name": "Omnimon NX",
+    "moves": [
+      "97",
+      "117",
+      "132",
+      "133",
+      "100"
+    ],
+    "neighBours": {
+      "prev": [
+        "335"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=335",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot904.png"
+  },
+  "336": {
+    "id": 336,
+    "name": "Gallantmon NX",
+    "moves": [
+      "129",
+      "33",
+      "46",
+      "23",
+      "56"
+    ],
+    "neighBours": {
+      "prev": [
+        "336"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=336",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot905.png"
+  },
+  "337": {
+    "id": 337,
+    "name": "Ryudamon",
+    "moves": [
+      "81",
+      "120"
+    ],
+    "neighBours": {
+      "prev": [
+        "337",
+        "16"
+      ],
+      "next": [
+        "338",
+        "279",
+        "107"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=337",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot190.png"
+  },
+  "338": {
+    "id": 338,
+    "name": "Ginryumon",
+    "moves": [
+      "82",
+      "110",
+      "116"
+    ],
+    "neighBours": {
+      "prev": [
+        "338",
+        "337",
+        "252",
+        "255"
+      ],
+      "next": [
+        "339",
+        "121",
+        "149"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=338",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot191.png"
+  },
+  "339": {
+    "id": 339,
+    "name": "Hisyaryumon",
+    "moves": [
+      "37",
+      "127",
+      "32",
+      "120"
+    ],
+    "neighBours": {
+      "prev": [
+        "339",
+        "338",
+        "83",
+        "270"
+      ],
+      "next": [
+        "340",
+        "177",
+        "308",
+        "219"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=339",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot192.png"
+  },
+  "340": {
+    "id": 340,
+    "name": "Ouryumon",
+    "moves": [
+      "53",
+      "129",
+      "33",
+      "111",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "340",
+        "339",
+        "288",
+        "157"
+      ],
+      "next": [
+        "322"
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=340",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot193.png"
+  },
+  "341": {
+    "id": 341,
+    "name": "Apocalymon",
+    "moves": [
+      "80",
+      "90",
+      "91",
+      "76",
+      "89"
+    ],
+    "neighBours": {
+      "prev": [
+        "341",
+        "225",
+        "206",
+        "221",
+        "205"
+      ],
+      "next": [
+        
+      ]
+    },
+    "url": "http:\/\/digidb.io\/digimon-search\/?request=341",
+    "icon": "http:\/\/digidb.io\/images\/dot\/dot328.png"
+  }
+}
+

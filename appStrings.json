@@ -1,0 +1,15 @@
+{
+	"app_title": "Cyber Sleuth Evolution Path Finder v2.4",
+	"calculate_path": "Calculate Path",
+	"label_language": "Language",
+	"start_digimon": "Start Digimon",
+	"end_digimon": "End Digimon",
+	"header_digimon": "Digimon",
+	"header_skills": "Skills (Max. 8)",
+	"header_bans": "Bans",
+	"no_path_warning": "No route could be found with the current bans!",
+	"hint_copy": "Copy the current path to text",
+	"discord_promotion": "Join the <a href='https://discord.gg/8yYyb7t'>PVP - Digimon Story Fightclub Discord Channel</a> for all things related to Digimon Cyber Sleuth PVP!",
+	"txt_devolve_to": "Devolve to",
+	"txt_evolve_to": "Evolve to"
+}

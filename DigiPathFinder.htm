@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+	</head> 
+	<script type="text/javascript" src='particles.js'></script>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src='digiPathWorker.js'></script>
+	<script type="text/javascript" src='digiPathFinder.js'></script>
+	<script type="text/javascript" src='digiPathFinderUI.js'></script>	
+	
+	
+	<link rel="stylesheet" type="text/css" href="digiPathFinder.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<body>
+		<div id='load_hider'></div>
+		<div id='content'>
+		<div class='tool_header flex-container'>
+		<div data-appstring='app_title'>
+			Cyber Sleuth Evolution Path Finder
+		</div>	
+		<div id='locale_select_container' class='flex-container'>
+		<div data-appstring='label_language'>
+			Language
+		</div>	
+		<select class='digi_select' id='locale_select'>
+		<option selected value='ENG'>English</option>
+		<option  value='JPN'>日本語</option>
+		</select>
+		</div>		
+		</div>
+		<div data-appstring='discord_promotion' id='discord_promotion'>Join the <a href='https://discord.gg/8yYyb7t'>PVP - Digimon Story Fightclub Discord Channel</a> for all things related to Digimon Cyber Sleuth PVP!</div>
+		<div id='controls'></div>
+		<div id='path_tools_container' class='flex-container'>
+		
+		</div>
+		<div id='path_container'>		
+		<div id='path_container_content'></div>
+		</div>
+		<div id='overlay'>
+		
+		<div id='worker_cancel'>
+			Cancel
+		</div>
+		
+		<div class="outer">
+		<div class="middle">
+		<div class="inner">
+		<div class="cssload-loader">
+			<div class="outer">
+			<div class="middle">
+			<div class="inner">
+			<div id='progress_display'>
+				<div id='progress_current'>0</div>
+				<div id='progress_goal'>0</div>
+			</div>
+			</div>
+			</div>
+			</div>
+		</div>
+
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		<div id='particles'>
+		</div>
+	</body>
+</html>

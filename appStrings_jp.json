@@ -1,0 +1,15 @@
+{
+	"app_title": "サイスル進化パスファインダー v2.4",
+	"calculate_path": "計算する",
+	"label_language": "言語",
+	"start_digimon": "始めのデジモン",
+	"end_digimon": "目的のデジモン",
+	"header_digimon": "デジモン",
+	"header_skills": "スキル（最大8まで）",
+	"header_bans": "外した",
+	"no_path_warning": "現在の外しで進化ルートを計算できない！",
+	"hint_copy": "この進化ルートをテキストとしてコピーします",
+	"discord_promotion": "Join the <a href='https://discord.gg/8yYyb7t'>PVP - Digimon Story Fightclub Discord Channel</a> for all things related to Digimon Cyber Sleuth PVP!",
+	"txt_devolve_to": "退化",
+	"txt_evolve_to": "進化"
+}
